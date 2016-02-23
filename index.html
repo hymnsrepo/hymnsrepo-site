@@ -1,0 +1,17 @@
+---
+layout: default
+title: Home
+---
+
+<div class="page">
+  <!--<h1 class="page-title">{{ page.title }}</h1>-->
+  <ul>
+    {% for hymn in site.hymns %}
+    <li>
+      <a href="{{ site.baseurl }}{{ hymn.url }}">
+        {{ hymn.title }}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>

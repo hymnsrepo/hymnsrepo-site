@@ -1,0 +1,27 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+# relative_permalinks: true
+
+# Setup
+title:               Hymns Repo
+tagline:             'A catholic hymn repository'
+description:         'A repository of hymns and songs used in catholic settings.'
+url:                 'http://'
+baseurl:             'http://localhost/~gldraphael/hymnsrepo'
+# paginate:            25
+
+# Hymns collection
+collections:
+  hymns:
+    output:          true
+    
+defaults:
+  - scope:
+      path:            ""
+      type:          hymns
+    values:
+      layout:        "hymn"
+      subtitle:      ""
+      title:         "Untitled"
