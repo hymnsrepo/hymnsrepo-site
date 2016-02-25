@@ -26,5 +26,4 @@ defaults:
       subtitle:      ""
       title:         "Untitled"
       
-gems:
-  - jekyll-sitemap
+gems: [jekyll-sitemap]
