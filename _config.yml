@@ -25,3 +25,6 @@ defaults:
       layout:        "hymn"
       subtitle:      ""
       title:         "Untitled"
+      
+gems:
+  - jekyll-sitemap
