@@ -29,5 +29,5 @@ The glory of God is theirs.
 
 Blest are you, who suffer hate   
 All because of Me.   
-Rejoice and be, glad yours is the kingdom   
+Rejoice and be glad, yours is the kingdom   
 Shine for all to see.
