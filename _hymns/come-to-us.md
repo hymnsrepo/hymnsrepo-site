@@ -1,5 +1,5 @@
 ---
-title: "Let it be done"
+title: "Come to us"
 subtitle: "Greg Walton, Mary Walton"
 ---
 
