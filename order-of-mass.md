@@ -70,4 +70,39 @@ C. Christ, have mercy. Or: Christe, eleison.
 P. Christ, have mercy. Or: Christe, eleison.   
 C. Lord, have mercy. Or: Kyrie, eleison.   
 P. Lord, have mercy. Or: Kyrie, eleison.   
-    
+
+### THE GLORIA
+
+> When indicated, either sung or said:
+
+Glory to God in the highest,   
+and on earth peace to people of good will.   
+We praise You, we bless You,   
+we adore You, we glorify You,   
+we give You thanks for your great glory,   
+Lord God heavenly King,   
+O God, almighty Father.   
+Lord Jesus Christ, Only Begotten Son,   
+Lord God, lamb of God, Son of the Father,   
+you take away, the sins of the world,   
+have mercy on us,   
+you take away the sins of the world,   
+receive our prayer,   
+you are seated at the right hand of   
+the Father, have mercy on us.   
+For you alone are the Holy One,   
+you alone are the Lord,   
+you alone are the Most high,   
+Jesus Christ,   
+with the Holy Spirit,   
+in the glory of God the Father.   
+Amen
+
+### THE COLLECT
+
+C. Let us pray.
+
+> All pray in silence with the priest who says the Collect prayer, at the end of which:
+
+P. Amen
+
