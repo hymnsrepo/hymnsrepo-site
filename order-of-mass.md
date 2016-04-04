@@ -3,6 +3,8 @@ layout: page
 title: The Order of Mass
 ---
 
+<small>**THE NEW ENGLISH TRANSLATION**</small>
+
 > Before Mass begins, the people gather in a spirit of recollection, preparing for their participation in the Mass.
 
 ### SIGN OF THE CROSS
