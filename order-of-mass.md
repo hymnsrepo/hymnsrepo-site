@@ -279,3 +279,95 @@ in the unity of the Holy Spirit,
 all glory and honour is yours,   
 for ever and ever.   
 P. Amen     
+
+### THE COMMUNION RITE
+
+> All stand and the Priest says:
+
+C. At the Saviour's command   
+and formed by divine teaching,   
+we dare to say:
+
+P. Our Father, who art in heaven,   
+hallowed by thy name,   
+thy kingdom come   
+thy will be done   
+on earth as it is in heaven.   
+Give us this day our daily bread,   
+and forgive us our trespasses,   
+as we forgive those who trespass   
+against us;   
+and lead us not into temptation,   
+but deliver us from evil.   
+C. Deliver us, Lord we pray, from every evil,   
+graciously grant peace in our days,   
+that, by the help of your mercy,   
+we may be always free from sin   
+and safe from distress,   
+as we await the blessed hope   
+and the coming of our saviour, Jesus Christ.   
+P. For the kingdom,   
+the power and the glory are yours   
+now and for ever.
+
+C. Lord Jesus Christ,   
+who said to your Apostles:   
+Peace I leave you, my peace I give you;   
+look not on our sins,   
+but on the faith of your Church,   
+and graciously grant her peace and unity   
+in accordance with your will.   
+Who live and reign for ever and ever.   
+P. Amen.   
+C. The peace of the Lord be with you always.   
+P. And with your spirit.   
+C. Let us offer each other the sign of peace.
+
+> All offer one another the customary sign of peace.
+
+<hr />
+
+### BREAKING OF THE BREAD
+
+> During which is sung or said:
+
+Lamb of God, you take away the sins of   
+the world, have mercy on us.   
+Lamb of God, you take away the sins   
+of the world, have mercy on us.   
+Lamb of God, you take away the sins of   
+the world, grant us peace.
+
+> All kneel.
+
+<hr />
+
+### INVITATION TO COMMUNION
+
+C. Behold the Lamb of God,   
+behold him who takes away the sins of the world.   
+Blessed are those called to the supper of the Lamb.   
+P. Lord, I am not worthy   
+that you should enter under my roof,   
+but only say the word   
+and my soul shall be healed.
+
+> Communicants come forward in reverent procession; they receive Holy Communion standing.
+
+C. The Body of Christ.   
+P. Amen
+
+> When Communion is ministered under both kinds:
+
+C. The Blood of Christ.   
+P. Amen
+
+> After Communion, the Priest says:   
+
+C. Let us pray.   
+
+> All stand and pray in silence. The Priest says the prayer after Communion, at the end of which
+
+P. Amen
+
+<hr />
