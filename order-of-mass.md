@@ -142,7 +142,7 @@ P. Glory to you, O Lord
 > At the end of the Gospel:
 
 C. The Gospel of the Lord   
-P. Prase to you, Lord Jesus Christ.
+P. Praise to you, Lord Jesus Christ.
 
 > After the Gospel all sit.
 
@@ -205,3 +205,37 @@ the communion of saints,
 the forgiveness of sins,   
 the resurrection of the body,   
 and life everlasting, Amen.
+
+<hr/>
+### THE PRAYER OF THE FAITHFUL (BIDDING PRAYERS)
+
+> After each intention there is a pause while the faithful pray. The Priest concludes the Prayer with  a collect. All sit.
+
+<hr />
+
+### THE LITURGY OF THE EUCHARIST
+
+> During the Offertory Song the faithful bring forward bread and wine for the celebration of the Eucharist. The Priest offers prayers of blessing:
+
+C. Blessed are you, Lord God of all creation, for through your goodness we have received the bread we offer you:   
+fruit of the earth and work of human hands, it will become for us the bread of life.   
+P. Blessed be God for ever.
+
+C. Blessed are you, Lord God of all creation, for through your goodness we have received the wine we offer you:   
+fruit of the vine and work of human hands, it will become our spiritual drink.   
+P. Blessed be God for ever.
+
+> The Priest completes additional personal preparatory rites, all stand:
+
+C. Pray, brethren (brothers and sisters),   
+that my sacrifice and yours   
+may be acceptable to God,   
+the almighty Father.   
+P. May the Lord accept the sacrifice at your hands   
+for the praise and glory of his name,   
+for our good   
+and the good of all his holy Church.
+
+> Then the Priest says the Prayer over the Offerings, at the end of which:
+
+P. Amen
