@@ -18,6 +18,7 @@ People: Amen.
 and the communion of the Holy Spirit be with you all. Or:
 1. C. Grace to you and peace from God our Father and the Lord Jesus Christ. Or:
 1. C. The Lord be with you.
+
 P. And with your Spirit. 
 
 <hr />
@@ -371,3 +372,22 @@ C. Let us pray.
 P. Amen
 
 <hr />
+
+### THE CONCLUDING RITES
+
+> Any brief announcements follow here. Then the dismissal.
+
+C. The Lord be with you.   
+P. And with your spirit.   
+C. May almighty God bless you,   
+the Father and the Son and the Holy Spirit.   
+P. Amen
+
+> Then the Deacon, or the Priest:   
+
+1. Go forth, the Mass is ended. Or:
+1. Go and announce the Gospel of the Lord. Or:
+3. Go in peace, glorifying the Lord by your life. Or:
+4. Go in peace.
+
+P. Thanks be to God
