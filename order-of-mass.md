@@ -239,3 +239,43 @@ and the good of all his holy Church.
 > Then the Priest says the Prayer over the Offerings, at the end of which:
 
 P. Amen
+
+### The EUCHARISTIC PRAYER
+
+C. The Lord be with you.   
+P. And with your spirit.   
+C. Lift up your hearts.   
+P. We lift them up to the Lord.   
+C. Let us give thanks to the Lord our God.   
+P. It is right and just.
+
+> After the Preface, the people sing or say:   
+
+Holy, Holy, Holy Lord God of hosts.   
+Heaven and earth are full of your glory.   
+Hosanna in the highest.   
+Blessed is he who comes in the name of the Lord.   
+Hosanna in the highest.
+
+> All kneel. The Priest continues with the Eucharistic Prayer. After the words of Consecration: 
+
+C. The mystery of faith.
+
+1. We proclaim your Death, O Lord,   
+and profess your Resurrection   
+until you come again, Or:   
+1. When we eat this Bread and drink this Cup,   
+we proclaim your Death, O Lord,   
+until you come again, Or:   
+1. Save us, saviour of the world,   
+for by your Cross and Resurrection   
+you have set us free.
+
+> At the conclusion of the prayer:
+
+C. Through him, and with him, and in him,   
+O God, almighty Father,   
+in the unity of the Holy Spirit,   
+all glory and honour is yours,   
+for ever and ever.   
+P. Amen     
