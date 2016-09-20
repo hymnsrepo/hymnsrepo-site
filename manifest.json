@@ -1,0 +1,9 @@
+{
+  "name": "HymnsRepo",
+  "short_name": "HymnsRepo",
+  "description": "A catholic hymn repository",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#AC4142"
+}
