@@ -25,12 +25,13 @@ When sending a PR please
 ### Commit messages
 
 If you're adding a new hymn, the commit message should be:
-> Add hymn: Accept almighty Father
+> Add: Accept almighty Father
 
 If you're fixing a typo in the hymn *accept alighty Father*, the commit message should be:
 > Fix typo: Accept almighty Father
 
 If you're making a major correction to the hymn, please describe your change in detail and site the source of the new text. This will help us verify the text. 
 
-### Formatting the hymn text
+TODO: Add instructions on formatting the text to maintain consistency
 
+TODO: Add local setup instructions for Windows, OSX & Linux
