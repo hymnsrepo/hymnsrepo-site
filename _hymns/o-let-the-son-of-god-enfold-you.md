@@ -3,7 +3,7 @@ title: "O let the Son of God enfold you"
 ---
 
 O let the Son of God enfold you with his spirit and his love,  
-Let him fill you heart and satisfy your soul.  
+Let him fill your heart and satisfy your soul.  
 O let him have the things that hold you, and his Spirit, like a dove,  
 Will descend upon your life and make you whole.  
 
