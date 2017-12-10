@@ -12,8 +12,10 @@ cache:
     - node_modules
 
 script:
+  - yarn global add gulp
   - gulp generate-sw
-  - JEKYLL_ENV=production bundle exec jekyll build -d ./dist
+  - gem install jekyll bundler
+  - JEKYLL_ENV=production jekyll build -d ./dist
 
 deploy:
   provider: pages
