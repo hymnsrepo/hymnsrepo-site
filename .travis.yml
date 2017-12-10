@@ -16,6 +16,7 @@ script:
   - gulp generate-sw
   - gem install jekyll bundler
   - JEKYLL_ENV=production jekyll build -d ./dist
+  - ls dist
 
 deploy:
   provider: pages
