@@ -1,0 +1,28 @@
+language: ruby
+rvm:
+  - 2.2.5
+
+dist: trusty
+sudo: false
+
+cache:
+  bundler: true
+  yarn: true
+  directories:
+    - node_modules
+
+script:
+  - JEKYLL_ENV=production bundle exec jekyll build -d ./dist
+  - yarn global add gulp
+  - yarn
+  - gulp generate-sw
+  - mv service-worker.js dist/
+  - ls dist
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: dist
+  on:
+    branch: master
