@@ -16,6 +16,7 @@ script:
   - yarn global add gulp
   - yarn
   - gulp generate-sw
+  - mv service-worker.js dist/
   - ls dist
 
 deploy:
