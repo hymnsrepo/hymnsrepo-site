@@ -14,8 +14,7 @@ cache:
 script:
   - yarn global add gulp
   - gulp generate-sw
-  - gem install jekyll bundler
-  - JEKYLL_ENV=production jekyll build -d ./dist
+  - JEKYLL_ENV=production bundle exec jekyll build -d ./dist
   - ls dist
 
 deploy:
