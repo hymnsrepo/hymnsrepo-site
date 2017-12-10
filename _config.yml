@@ -12,7 +12,7 @@ github:              'https://github.com/hymnsrepo/hymnsrepo.github.io'
 collections:
   hymns:
     output:          true
-    
+
 defaults:
   - scope:
       path:            ""
@@ -21,6 +21,6 @@ defaults:
       layout:        "hymn"
       subtitle:      ""
       title:         "Untitled"
-      
+
 gems: [jekyll-sitemap,jekyll-seo-tag]
-exclude: [node_modules/]
+exclude: [node_modules/, vendor/bundle]
