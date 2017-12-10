@@ -5,10 +5,6 @@ rvm:
 dist: trusty
 sudo: false
 
-branches:
-  only:
-    - master
-
 cache:
   bundler: true
   yarn: true
