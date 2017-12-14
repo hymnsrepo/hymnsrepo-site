@@ -23,4 +23,12 @@ defaults:
       title:         "Untitled"
 
 gems: [jekyll-sitemap,jekyll-seo-tag]
-exclude: [node_modules/, vendor/bundle]
+exclude:
+  - node_modules/
+  - vendor/bundle
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - README.md
+  - yarn.lock
