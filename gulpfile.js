@@ -1,6 +1,6 @@
-var gulp = require('gulp');
-var path = require('path');
-var swPrecache = require('sw-precache');
+const gulp = require('gulp');
+const path = require('path');
+const swPrecache = require('sw-precache');
 
 gulp.task('generate-sw', function(callback) {
   swPrecache.write('service-worker.js', {

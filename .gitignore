@@ -43,3 +43,6 @@ validation-report.json
 node_modules/
 bower_components/
 dist/
+
+# Ignore the generated service-worker files
+service-worker.js
