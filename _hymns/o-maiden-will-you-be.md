@@ -1,5 +1,6 @@
 ---
-title: "O maiden will you be"
+title: O maiden will you be
+subtitle: L. Pereira
 ---
 
 O maiden will you be the mother of the Saviour?   
