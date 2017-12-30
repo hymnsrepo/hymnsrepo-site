@@ -1,5 +1,6 @@
 ---
-title: "I dare not sing of Jesus' pain and anguish"
+title: I dare not sing of Jesus' pain and anguish
+subtitle: Aniceto Nazareth
 ---
 
 I dare not sing of Jesus' pain and anguish,   
