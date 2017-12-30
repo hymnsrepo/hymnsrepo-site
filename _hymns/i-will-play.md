@@ -1,5 +1,6 @@
 ---
-title: "I will play before the Lord"
+title: I will play before the Lord
+subtitle: Bob Dufford
 ---
 
 I will play before the Lord,   
