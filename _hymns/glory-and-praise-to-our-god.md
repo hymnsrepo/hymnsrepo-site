@@ -1,5 +1,6 @@
 ---
-title: "Glory and praise"
+title: Glory and praise
+subtitle: Dan Schutte
 ---
 
 **Glory and praise to our God;   
