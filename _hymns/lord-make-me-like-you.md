@@ -1,5 +1,6 @@
 ---
-title: "Lord make me like You"
+title: Lord make me like You
+subtitle: Carol & Jimmy Owens
 ---
 
 **Lord make me like You   
