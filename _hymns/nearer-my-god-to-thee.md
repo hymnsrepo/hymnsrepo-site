@@ -1,5 +1,6 @@
 ---
-title: "Nearer My God to thee"
+title: Nearer My God to thee
+subtitle: Sarah & Eliza Adams
 ---
 
 Nearer my God to thee, nearer to thee,   
