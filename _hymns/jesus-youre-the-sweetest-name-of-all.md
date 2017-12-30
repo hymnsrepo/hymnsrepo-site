@@ -1,5 +1,6 @@
 ---
-title: "Jesus you're the sweetest name of all"
+title: Jesus you're the sweetest name of all
+subtitle: Tommy Coomes
 ---
 
 Jesus you're the sweetest name of all,   
