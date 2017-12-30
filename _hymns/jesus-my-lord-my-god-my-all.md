@@ -1,5 +1,6 @@
 ---
-title: "Jesus! My Lord, my God, my all"
+title: Jesus! My Lord, my God, my all
+subtitle: Fredrick V. Faber
 ---
 
 Jesus! my Lord, my God my all!   
