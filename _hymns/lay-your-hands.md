@@ -1,5 +1,6 @@
 ---
-title: "Lay your hands"
+title: Lay your hands
+subtitle: Rev. Carey Landry
 ---
 
 **Lay Your hands gently upon us   
