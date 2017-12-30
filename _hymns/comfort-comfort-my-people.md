@@ -1,5 +1,6 @@
 ---
-title: "Comfort, comfort my people"
+title: Comfort, comfort my people
+subtitle: Anthony D'Souza
 ---
 
 **Comfort, comfort my people, says the Lord your God.   
