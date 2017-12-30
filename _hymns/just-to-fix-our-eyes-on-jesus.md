@@ -1,5 +1,6 @@
 ---
-title: "Just to fix our eyes on Jesus"
+title: Just to fix our eyes on Jesus
+subtitle: Aniceto Nazareth
 ---
 
 Just to fix our eyes on Jesus   
