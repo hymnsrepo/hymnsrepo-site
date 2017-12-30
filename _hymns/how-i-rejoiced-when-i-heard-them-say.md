@@ -1,5 +1,6 @@
 ---
-title: "How I rejoiced when I heard them say"
+title: How I rejoiced when I heard them say
+subtitle: Aniceto Nazareth
 ---
 
 **How I rejoiced when I heard them say -    
