@@ -1,4 +1,10 @@
 .hymn-list-item{
-    margin: 0.1rem;
-    padding: 0.1rem;
+  margin: 0.1rem;
+  padding: 0.1rem;
+}
+
+.post-subtitle {
+  font-size: 16px;
+  font-style: italic;
+  letter-spacing: .5px;
 }
