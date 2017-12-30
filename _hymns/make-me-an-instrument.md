@@ -1,5 +1,6 @@
 ---
-title: "Make me an instrument"
+title: Make me an instrument
+subtitle: St. Francis of Assisi
 ---
 
 Make me an instrument of your peace:   
