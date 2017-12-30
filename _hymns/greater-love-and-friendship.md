@@ -1,5 +1,6 @@
 ---
-title: "Greater love and friendship"
+title: Greater love and friendship
+subtitle: Aniceto Nazareth
 ---
 
 Greater love and friendship has no man than this   
