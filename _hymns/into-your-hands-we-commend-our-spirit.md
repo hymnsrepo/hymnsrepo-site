@@ -1,5 +1,6 @@
 ---
-title: "Into Your hands we commend our spirit"
+title: Into Your hands we commend our spirit
+subtitle: Ray Repp
 ---
 
 **Into Your hands we commend our spirit O Lord,   
