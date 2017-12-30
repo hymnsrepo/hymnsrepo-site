@@ -1,5 +1,6 @@
 ---
-title: "I have decided"
+title: I have decided
+subtitle: Harry Dixon Loes
 ---
 
 I have decided to follow Jesus (x3)   
