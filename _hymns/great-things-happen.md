@@ -1,5 +1,6 @@
 ---
-title: "Great things happen"
+title: Great things happen
+subtitle: Carey Landry
 ---
 
 **Great things happen when God mixes with us (x2)   
