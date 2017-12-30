@@ -1,5 +1,6 @@
 ---
-title: "Lose yourself in me"
+title: Lose yourself in me
+subtitle: Rev. Carey landry (verse 2 & 3 by Aniceto Nazareth)
 ---
 
 **Lose yourself in me and you will find yourself   
