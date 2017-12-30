@@ -1,5 +1,6 @@
 ---
-title: "Hide me in the hollow of Your loving hand"
+title: Hide me in the hollow of Your loving hand
+subtitle: Aniceto Nazareth
 ---
 
 Hide me in the hollow of Your loving hand   
