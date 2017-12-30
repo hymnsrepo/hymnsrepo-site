@@ -1,5 +1,6 @@
 ---
-title: "Give thanks"
+title: Give thanks
+subtitle: Don Moen
 ---
 
 Give thanks with a grateful heart   
