@@ -1,5 +1,6 @@
 ---
-title: "In the Lord, is my hope"
+title: In the Lord, is my hope
+subtitle: J.A. Espinosa
 ---
 
 **In the Lord, is my hope,   
