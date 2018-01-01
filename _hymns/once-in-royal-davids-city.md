@@ -17,6 +17,13 @@ And His cradle was a stall:
 With the poor, and mean, and lowly,   
 Lived on earth our Saviour holy.
 
+And through all his wondrous childhood   
+He would honour and obey,   
+Love and watch the lowly maiden   
+In whose gentle arms he lay;   
+Christian children all must be   
+Mild, obedient, good as he.
+
 For He is our childhood's pattern;   
 Day by day, like us, He grew;   
 He was little, weak, and helpless,   
@@ -30,3 +37,10 @@ For that Child so dear and gentle,
 Is our Lord in heaven above:   
 And He leads His children on,   
 To the place where He is gone.
+
+Not in that poor, lowly stable   
+With the oxen standing by   
+We shall see him, but in heaven,   
+Set at God’s right hand on high,   
+When, like stars, his children, crowned,   
+All in white shall wait around.
