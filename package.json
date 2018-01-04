@@ -3,8 +3,14 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "lint": "remark _hymns",
     "build.prod": "echo Nothing to do here."
   },
   "devDependencies": {
+    "remark-cli": "^4.0.0",
+    "remark-preset-lint-recommended": "^3.0.1"
+  },
+  "remarkConfig": {
+    "plugins": ["remark-preset-lint-recommended"]
   }
 }
