@@ -1,12 +1,10 @@
 {
-  "name": "hymnsrepo",
+  "name": "hymnsrepo-content",
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build.prod": "JEKYLL_ENV=production bundle exec jekyll build -d ./dist"
+    "build.prod": "echo Nothing to do here."
   },
   "devDependencies": {
-    "gulp": "3.9.1",
-    "sw-precache": "^5.2.0"
   }
 }
