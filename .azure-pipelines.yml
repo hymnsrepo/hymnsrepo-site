@@ -21,4 +21,5 @@ steps:
   displayName: 'Build'
 
 - script: gulp deploy
+  condition: eq(variables['Build.SourceBranch'], 'refs/heads/master')
   displayName: 'Deploy'
