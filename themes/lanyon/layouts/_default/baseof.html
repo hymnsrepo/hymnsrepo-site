@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="en-us">
-
-  {% include head.html %}
+{{ partial "head.html" . }}
 
   <body class="theme-base-08">
 
-    {% include sidebar.html %}
+{{ partial "sidebar.html" . }}
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
@@ -13,20 +12,30 @@
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-            <small>{{ site.tagline }}</small>
+            <a href="{{ .Site.BaseURL }}/" title="Home">{{ .Site.Title }}</a>
+            <small>{{ .Site.Params.tagline }}</small>
           </h3>
         </div>
       </div>
 
       <div class="container content">
-        {{ content }}
+        {{ block "content" . }}
+        {{ end }}
       </div>
     </div>
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
-    <script src="/service-worker-registration.js"></script>
+
+    <script>
+    // Check that service workers are supported
+    if ('serviceWorker' in navigator) {
+      // Use the window load event to keep the page load performant
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/sw.js');
+      });
+    }
+    </script>
     <script>
       (function(document) {
         var toggle = document.querySelector('.sidebar-toggle');
@@ -44,6 +53,7 @@
         }, false);
       })(document);
     </script>
-    {% include ga.html %}
+{{ partial "ga.html" . }}
   </body>
+  
 </html>

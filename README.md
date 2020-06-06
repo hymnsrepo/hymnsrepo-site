@@ -22,16 +22,8 @@ When sending a PR please
 1. Mention where you got the text from
 1. If you're not sure whether the hymn is appropriate for this project, please open an issue first
 
-### Commit messages
+### Running hymnsrepo locally (for developers/contributors)
 
-If you're adding a new hymn, the commit message should be:
-> Add: Accept almighty Father
-
-If you're fixing a typo in the hymn *accept alighty Father*, the commit message should be:
-> Fix typo: Accept almighty Father
-
-If you're making a major correction to the hymn, please describe your change in detail and site the source of the new text. This will help us verify the text. 
-
-TODO: Add instructions on formatting the text to maintain consistency
-
-TODO: Add local setup instructions for Windows, OSX & Linux
+```sh
+hugo server
+```

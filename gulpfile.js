@@ -1,11 +1,27 @@
 const gulp = require('gulp');
-const path = require('path');
-const swPrecache = require('sw-precache');
+const workbox = require('workbox-build');
+const ghPages = require('@justeat/gulp-gh-pages');
 
-gulp.task('generate-sw', function(callback) {
-  swPrecache.write('service-worker.js', {
-    staticFileGlobs: ['dist/**/*.{js,html,css,png,jpg,gif,svg,eot,ttf,woff,woff2}'],
-    stripPrefix: "dist",
-    navigateFallback: '/'
-  }, callback);
+gulp.task('generate-sw', () => {
+  return workbox.generateSW({
+    globDirectory: 'public',
+    globPatterns: [
+      '**/*.{js,json,html,css,png,jpg,gif,svg,eot,ttf,woff,woff2}'
+    ],
+    swDest: 'public/sw.js',
+    clientsClaim: true,
+    skipWaiting: true
+  }).then(({warnings}) => {
+    // In case there are any warnings from workbox-build, log them.
+    for (const warning of warnings) {
+      console.warn(warning);
+    }
+    console.info('Service worker generation completed.');
+  }).catch((error) => {
+    console.warn('Service worker generation failed:', error);
+  });
 });
+ 
+gulp.task('deploy', () => 
+  gulp.src('./public/**/*').pipe(ghPages())
+);
