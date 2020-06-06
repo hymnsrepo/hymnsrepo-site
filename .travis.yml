@@ -1,0 +1,30 @@
+language: node
+node_js:
+  - lts/*
+
+dist: bionic
+addons:
+  snaps:
+    - hugo
+
+cache:
+  yarn: true
+  directories:
+    - node_modules
+
+# before_install:
+#   - wget -O ~/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.72.0/hugo_0.72.0_Linux-64bit.deb
+#   - sudo dpkg -i ~/hugo.deb
+#   - hugo version
+
+script:
+  - chmod +x ./build.sh
+  - ./build.sh
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: public
+  on:
+    branch: master
