@@ -15,7 +15,9 @@ steps:
     hugo version
   displayName: 'Install hugo'
 
-- script: ./build.sh
+- script: |
+    chmod +x ./build.sh
+    ./build.sh
   displayName: 'Build'
 
 - script: gulp deploy
