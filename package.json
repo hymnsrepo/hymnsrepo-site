@@ -3,10 +3,12 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build.prod": "JEKYLL_ENV=production bundle exec jekyll build -d ./dist"
+    "generate-apis": "m2j -o ./public/api/index.json -w 0 ./content/hymns/*.md"
   },
   "devDependencies": {
-    "gulp": "3.9.1",
-    "sw-precache": "^5.2.0"
+    "@justeat/gulp-gh-pages": "^1.0.3",
+    "gulp": "^4.0.2",
+    "markdown-to-json": "^0.5.4",
+    "workbox-build": "^5.1.3"
   }
 }

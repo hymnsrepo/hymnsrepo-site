@@ -1,6 +1,6 @@
 ---
-layout: page
 title: The Order of Mass
+draft: false
 ---
 
 <small>**THE NEW ENGLISH TRANSLATION**</small>

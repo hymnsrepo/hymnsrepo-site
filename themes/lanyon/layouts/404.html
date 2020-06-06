@@ -1,15 +1,10 @@
----
-layout: default
-title: "Not found"
-permalink: 404.html
-sitemap: false
----
-
+{{ define "content" }}
 <div class="page">
   <h1 class="page-title">Error 404 - Page not found</h1>
   <br />
   <p>
     Sorry, the page you're looking for doesn't exist. <br />
-    You may try to find it from the <a href="{{ site.baseurl }}/">home page</a>.
+    You may try to find it from the <a href="{{ .Site.BaseURL }}/">home page</a>.
   </p>
 </div>
+{{ end }}

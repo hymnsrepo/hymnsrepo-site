@@ -1,0 +1,13 @@
+{{ define "content" }}
+
+<ul>
+{{ range .Site.RegularPages.ByTitle }}
+    {{ if eq .Type "hymns" }}
+        <li class="hymn-list-item">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+    {{ end }}
+{{ end }}
+</ul>
+
+{{end}}
