@@ -20,6 +20,9 @@ steps:
     ./build.sh
   displayName: 'Build'
 
-- script: gulp deploy
+- script: |
+    git config --global user.email "noreply@hymnsrepo.com"
+    git config --global user.name "DeployBot"
+    gulp deploy
   condition: eq(variables['Build.SourceBranch'], 'refs/heads/master')
   displayName: 'Deploy'
