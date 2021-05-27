@@ -1,0 +1,19 @@
+.hymn-list-item{
+  margin: 0.1rem;
+  padding: 0.1rem;
+}
+
+.post-subtitle {
+  font-size: 16px;
+  font-style: italic;
+  letter-spacing: .5px;
+}
+
+.footnotes {
+  font-style: italic;
+  font-size: 16px;
+}
+
+.footnotes li>p {
+  margin-bottom: 0
+}

@@ -1,0 +1,743 @@
+{
+  "a-new-commandment": {
+    "title": "A new commandment",
+    "basename": "a-new-commandment"
+  },
+  "a-spotless-rose-is-blowing": {
+    "title": "A spotless Rose is blowing",
+    "subtitle": "15th Century Traditional German",
+    "basename": "a-spotless-rose-is-blowing"
+  },
+  "a-tender-shoot-has-started-up": {
+    "title": "A tender shoot has started up",
+    "subtitle": "Otto Goldschmidt",
+    "basename": "a-tender-shoot-has-started-up"
+  },
+  "abide-with-me": {
+    "title": "Abide with me",
+    "basename": "abide-with-me"
+  },
+  "accept-almighty-father": {
+    "title": "Accept almighty Father",
+    "basename": "accept-almighty-father"
+  },
+  "adam-lay-ybounden": {
+    "title": "Adam lay ybounden",
+    "subtitle": "Traditional English 15th Century",
+    "basename": "adam-lay-ybounden"
+  },
+  "all-over-the-world": {
+    "title": "All over the world",
+    "basename": "all-over-the-world"
+  },
+  "all-peoples-of-the-universe": {
+    "title": "All peoples of the universe",
+    "basename": "all-peoples-of-the-universe"
+  },
+  "all-that-i-am": {
+    "title": "All that I am",
+    "basename": "all-that-i-am"
+  },
+  "all-the-ends-of-the-earth": {
+    "title": "All the ends of the earth",
+    "basename": "all-the-ends-of-the-earth"
+  },
+  "all-the-way-my-saviour-leads-me": {
+    "title": "All the way my Saviour leads me",
+    "subtitle": "Chris Tomlin",
+    "basename": "all-the-way-my-saviour-leads-me"
+  },
+  "all-to-jesus-i-surrender": {
+    "title": "All to Jesus I surrender",
+    "basename": "all-to-jesus-i-surrender"
+  },
+  "all-you-children-of-peace": {
+    "title": "All you children of peace",
+    "basename": "all-you-children-of-peace"
+  },
+  "amazing-grace": {
+    "title": "Amazing grace",
+    "basename": "amazing-grace"
+  },
+  "angels-we-have-heard-on-high": {
+    "title": "Angels we have heard on high",
+    "basename": "angels-we-have-heard-on-high"
+  },
+  "as-i-kneel-before-you": {
+    "title": "Ave Maria (As I kneel)",
+    "basename": "as-i-kneel-before-you"
+  },
+  "as-the-deer": {
+    "title": "As the deer",
+    "subtitle": "Martin J. Nystrom",
+    "basename": "as-the-deer"
+  },
+  "as-we-gather-may-your-spirit-work-within-us": {
+    "title": "As we gather",
+    "basename": "as-we-gather-may-your-spirit-work-within-us"
+  },
+  "at-the-cross-her-station-keeping": {
+    "title": "At the cross her station keeping",
+    "subtitle": "Stabet Mater (Traditional 13th Century)",
+    "basename": "at-the-cross-her-station-keeping"
+  },
+  "at-the-name-of-jesus": {
+    "title": "At the name of Jesus",
+    "basename": "at-the-name-of-jesus"
+  },
+  "at-this-time-of-giving": {
+    "title": "At this time of giving",
+    "basename": "at-this-time-of-giving"
+  },
+  "away-in-a-manger": {
+    "title": "Away in a manager",
+    "basename": "away-in-a-manger"
+  },
+  "be-exalted": {
+    "title": "Be exalted",
+    "basename": "be-exalted"
+  },
+  "be-not-afraid-i-go-before-you-always": {
+    "title": "Be not afraid! I go before you always",
+    "basename": "be-not-afraid-i-go-before-you-always"
+  },
+  "be-still-and-know": {
+    "title": "Be still and know",
+    "basename": "be-still-and-know"
+  },
+  "be-still-for-the-presence-of-the-lord": {
+    "title": "Be still for the presence of the Lord",
+    "basename": "be-still-for-the-presence-of-the-lord"
+  },
+  "be-thou-my-vision": {
+    "title": "Be Thou my vision",
+    "basename": "be-thou-my-vision"
+  },
+  "beginning-today": {
+    "title": "Beginning today",
+    "basename": "beginning-today"
+  },
+  "bestir-thy-power": {
+    "title": "Bestir Thy power",
+    "basename": "bestir-thy-power"
+  },
+  "bind-us-together": {
+    "title": "Bind us together",
+    "basename": "bind-us-together"
+  },
+  "blessed-are-they-who-are-poor-in-spirit": {
+    "title": "Blessed are they who are poor in spirit",
+    "basename": "blessed-are-they-who-are-poor-in-spirit"
+  },
+  "blessed-assurance": {
+    "title": "Blessed assurance",
+    "basename": "blessed-assurance"
+  },
+  "blest-are-they": {
+    "title": "Blest are they",
+    "basename": "blest-are-they"
+  },
+  "blest-are-you-lord": {
+    "title": "Blest are You, Lord",
+    "basename": "blest-are-you-lord"
+  },
+  "bread-that-was-sown": {
+    "title": "Bread that was sown",
+    "basename": "bread-that-was-sown"
+  },
+  "cause-me-to-come": {
+    "title": "Cause me to come",
+    "basename": "cause-me-to-come"
+  },
+  "celebrate-god": {
+    "title": "Celebrate God",
+    "basename": "celebrate-god"
+  },
+  "christ-be-our-light": {
+    "title": "Christ be our light",
+    "basename": "christ-be-our-light"
+  },
+  "colours-of-day": {
+    "title": "Colours of day",
+    "basename": "colours-of-day"
+  },
+  "come-back-to-me": {
+    "title": "Come back to me",
+    "basename": "come-back-to-me"
+  },
+  "come-come-emmanuel": {
+    "title": "Come, Come Emmanuel",
+    "subtitle": "Steve Angrisano",
+    "basename": "come-come-emmanuel"
+  },
+  "come-holy-ghost": {
+    "title": "Come Holy Ghost",
+    "basename": "come-holy-ghost"
+  },
+  "come-in-pilgrim": {
+    "title": "Come in pilgrim",
+    "basename": "come-in-pilgrim"
+  },
+  "come-into-his-presence": {
+    "title": "Come into His presence",
+    "basename": "come-into-his-presence"
+  },
+  "come-thou-long-expected-jesus": {
+    "title": "Come thou long expected Jesus",
+    "subtitle": "Charles Wesley & Mark E Hunt",
+    "basename": "come-thou-long-expected-jesus"
+  },
+  "come-to-us": {
+    "title": "Come to us",
+    "subtitle": "Greg Walton, Mary Walton",
+    "basename": "come-to-us"
+  },
+  "comfort-comfort-my-people": {
+    "title": "Comfort, comfort my people",
+    "subtitle": "Anthony D'Souza",
+    "basename": "comfort-comfort-my-people"
+  },
+  "count-your-blessings": {
+    "title": "Count your blessings",
+    "basename": "count-your-blessings"
+  },
+  "daily-daily-sing-to-mary": {
+    "title": "Daily, daily sing to Mary",
+    "basename": "daily-daily-sing-to-mary"
+  },
+  "deep-calls-to-deep": {
+    "title": "Deep calls to deep",
+    "basename": "deep-calls-to-deep"
+  },
+  "ding-dong-merrily-on-high": {
+    "title": "Ding dong! Merrily on high",
+    "subtitle": "George Ratcliffe Woodward",
+    "basename": "ding-dong-merrily-on-high"
+  },
+  "do-this-in-memory-of-me": {
+    "title": "Do this in memory of me",
+    "basename": "do-this-in-memory-of-me"
+  },
+  "enter-his-gates": {
+    "title": "Enter His gates",
+    "basename": "enter-his-gates"
+  },
+  "every-morning": {
+    "title": "Every morning",
+    "basename": "every-morning"
+  },
+  "father-we-adore-you": {
+    "title": "Father we adore You",
+    "subtitle": "Terrye Coelho",
+    "basename": "father-we-adore-you"
+  },
+  "find-us-ready": {
+    "title": "Find us ready",
+    "subtitle": "Tom Booth",
+    "basename": "find-us-ready"
+  },
+  "from-the-depths": {
+    "title": "From the depths",
+    "basename": "from-the-depths"
+  },
+  "give-me-oil-in-my-lamp": {
+    "title": "Give me oil in my lamp",
+    "basename": "give-me-oil-in-my-lamp"
+  },
+  "give-thanks": {
+    "title": "Give thanks",
+    "subtitle": "Don Moen",
+    "basename": "give-thanks"
+  },
+  "glory-and-praise-to-our-god": {
+    "title": "Glory and praise",
+    "subtitle": "Dan Schutte",
+    "basename": "glory-and-praise-to-our-god"
+  },
+  "go-go-into-the-world": {
+    "title": "Go, go into the world",
+    "basename": "go-go-into-the-world"
+  },
+  "go-the-mass-is-ended": {
+    "title": "Go the mass is ended",
+    "basename": "go-the-mass-is-ended"
+  },
+  "god-is-good-to-me": {
+    "title": "God is good to me",
+    "basename": "god-is-good-to-me"
+  },
+  "god-is-so-good": {
+    "title": "God is so good",
+    "basename": "god-is-so-good"
+  },
+  "god-rest-ye-merry-gentlemen": {
+    "title": "God rest ye merry, gentlemen",
+    "subtitle": "Traditional English, 18th century",
+    "basename": "god-rest-ye-merry-gentlemen"
+  },
+  "great-indeed-are-your-works": {
+    "title": "Great indeed are Your works",
+    "basename": "great-indeed-are-your-works"
+  },
+  "great-things-happen": {
+    "title": "Great things happen",
+    "subtitle": "Carey Landry",
+    "basename": "great-things-happen"
+  },
+  "greater-love-and-friendship": {
+    "title": "Greater love and friendship",
+    "subtitle": "Aniceto Nazareth",
+    "basename": "greater-love-and-friendship"
+  },
+  "hail-holy-joseph-hail": {
+    "title": "Hail, holy Joseph hail!",
+    "basename": "hail-holy-joseph-hail"
+  },
+  "hail-mary-full-of-grace": {
+    "title": "Hail Mary, full of grace",
+    "subtitle": "Aniceto Nazareth",
+    "basename": "hail-mary-full-of-grace"
+  },
+  "hail-to-thee-true-body-sprung": {
+    "title": "Hail to thee, true body sprung",
+    "subtitle": "St. Thomas Aquinas",
+    "basename": "hail-to-thee-true-body-sprung"
+  },
+  "he-is-lord": {
+    "title": "He is Lord",
+    "subtitle": "Aniceto Nazareth",
+    "basename": "he-is-lord"
+  },
+  "hide-me-in-the-hollow-of-your-loving-hand": {
+    "title": "Hide me in the hollow of Your loving hand",
+    "subtitle": "Aniceto Nazareth",
+    "basename": "hide-me-in-the-hollow-of-your-loving-hand"
+  },
+  "his-name-is-higher": {
+    "title": "His name is higher",
+    "basename": "his-name-is-higher"
+  },
+  "holy-god-we-praise-thy-name": {
+    "title": "Holy God, we praise Thy name",
+    "basename": "holy-god-we-praise-thy-name"
+  },
+  "holy-holy-holy-lord-god-almighty": {
+    "title": "Holy Holy Holy",
+    "basename": "holy-holy-holy-lord-god-almighty"
+  },
+  "holy-virgin": {
+    "title": "Holy Virgin by God's decree",
+    "basename": "holy-virgin"
+  },
+  "how-i-rejoiced-when-i-heard-them-say": {
+    "title": "How I rejoiced when I heard them say",
+    "subtitle": "Aniceto Nazareth",
+    "basename": "how-i-rejoiced-when-i-heard-them-say"
+  },
+  "how-lovely-is-your-dwelling-place-o-lord": {
+    "title": "How lovely is Your dwelling place, O Lord!",
+    "basename": "how-lovely-is-your-dwelling-place-o-lord"
+  },
+  "i-am-the-bread-of-life": {
+    "title": "I am the bread of life",
+    "basename": "i-am-the-bread-of-life"
+  },
+  "i-am-the-light": {
+    "title": "I am the light",
+    "basename": "i-am-the-light"
+  },
+  "i-dare-not-sing": {
+    "title": "I dare not sing of Jesus' pain and anguish",
+    "subtitle": "Aniceto Nazareth",
+    "basename": "i-dare-not-sing"
+  },
+  "i-give-my-hands": {
+    "title": "I give my hands",
+    "subtitle": "Estelle White",
+    "basename": "i-give-my-hands"
+  },
+  "i-have-decided": {
+    "title": "I have decided",
+    "subtitle": "Harry Dixon Loes",
+    "basename": "i-have-decided"
+  },
+  "i-now-no-longer-live": {
+    "title": "I now no longer live",
+    "basename": "i-now-no-longer-live"
+  },
+  "i-rejoiced-when-i-heard": {
+    "title": "I rejoiced when I heard",
+    "basename": "i-rejoiced-when-i-heard"
+  },
+  "i-will-play": {
+    "title": "I will play before the Lord",
+    "subtitle": "Bob Dufford",
+    "basename": "i-will-play"
+  },
+  "i-will-sing-of-the-mercies": {
+    "title": "I will sing of the mercies",
+    "basename": "i-will-sing-of-the-mercies"
+  },
+  "if-you-wish-to-be-my-disciple": {
+    "title": "If you wish to be My disciple",
+    "basename": "if-you-wish-to-be-my-disciple"
+  },
+  "ill-turn-my-steps": {
+    "title": "I'll turn my steps to the altar of God",
+    "basename": "ill-turn-my-steps"
+  },
+  "in-bread-we-bring-you-lord": {
+    "title": "In bread we bring You Lord",
+    "subtitle": "Kevin Nichols",
+    "basename": "in-bread-we-bring-you-lord"
+  },
+  "in-his-time": {
+    "title": "In His time",
+    "basename": "in-his-time"
+  },
+  "in-the-bleak-mid-winter": {
+    "title": "In the bleak midwinter",
+    "subtitle": "Christina Georgina Rossetti",
+    "basename": "in-the-bleak-mid-winter"
+  },
+  "in-the-lord-is-my-hope": {
+    "title": "In the Lord, is my hope",
+    "subtitle": "J.A. Espinosa",
+    "basename": "in-the-lord-is-my-hope"
+  },
+  "into-your-hands-we-commend-our-spirit": {
+    "title": "Into Your hands we commend our spirit",
+    "subtitle": "Ray Repp",
+    "basename": "into-your-hands-we-commend-our-spirit"
+  },
+  "it-came-upon-the-midnight-clear": {
+    "title": "It came upon the midnight clear",
+    "subtitle": "Edmund Sears",
+    "basename": "it-came-upon-the-midnight-clear"
+  },
+  "it-was-six-days-before-the-passover": {
+    "title": "It was six days before the passover",
+    "basename": "it-was-six-days-before-the-passover"
+  },
+  "ive-wandered-far-away-from-god": {
+    "title": "I've wandered far away from God",
+    "basename": "ive-wandered-far-away-from-god"
+  },
+  "jesus-always-loved-his-own": {
+    "title": "Jesus always loved His own",
+    "basename": "jesus-always-loved-his-own"
+  },
+  "jesus-come-jesus-come": {
+    "title": "Jesus Come, Jesus Come",
+    "subtitle": "Pauline Lobo",
+    "basename": "jesus-come-jesus-come"
+  },
+  "jesus-is-the-joy-of-living": {
+    "title": "Jesus is the joy of living",
+    "subtitle": "Alfred H. Ackley",
+    "basename": "jesus-is-the-joy-of-living"
+  },
+  "jesus-my-lord-my-god-my-all": {
+    "title": "Jesus! My Lord, my God, my all",
+    "subtitle": "Fredrick V. Faber",
+    "basename": "jesus-my-lord-my-god-my-all"
+  },
+  "jesus-you-are-my-salvation": {
+    "title": "Jesus, You are my salvation",
+    "basename": "jesus-you-are-my-salvation"
+  },
+  "jesus-youre-the-sweetest-name-of-all": {
+    "title": "Jesus you're the sweetest name of all",
+    "subtitle": "Tommy Coomes",
+    "basename": "jesus-youre-the-sweetest-name-of-all"
+  },
+  "just-like-a-child": {
+    "title": "Just like a child",
+    "subtitle": "Odette Vercruysse",
+    "basename": "just-like-a-child"
+  },
+  "just-to-fix-our-eyes-on-jesus": {
+    "title": "Just to fix our eyes on Jesus",
+    "subtitle": "Aniceto Nazareth",
+    "basename": "just-to-fix-our-eyes-on-jesus"
+  },
+  "lay-your-hands": {
+    "title": "Lay your hands",
+    "subtitle": "Rev. Carey Landry",
+    "basename": "lay-your-hands"
+  },
+  "let-it-be-done": {
+    "title": "Let it be done",
+    "subtitle": "Chris Muglia",
+    "basename": "let-it-be-done"
+  },
+  "let-there-be-glory-and-honour-to-mary": {
+    "title": "Let there be glory and honour to Mary",
+    "subtitle": "Aniceto Nazareth",
+    "basename": "let-there-be-glory-and-honour-to-mary"
+  },
+  "let-us-bow-in-adoration": {
+    "title": "Let us bow in adoration",
+    "basename": "let-us-bow-in-adoration"
+  },
+  "lets-sing-to-our-mother": {
+    "title": "Let's sing to our mother",
+    "subtitle": "Sr. Marie Lydia Pereira F.C.",
+    "basename": "lets-sing-to-our-mother"
+  },
+  "listen-to-your-people": {
+    "title": "Listen to Your people",
+    "basename": "listen-to-your-people"
+  },
+  "living-waters-flow-on": {
+    "title": "Living waters flow on",
+    "basename": "living-waters-flow-on"
+  },
+  "lord-make-me-like-you": {
+    "title": "Lord make me like You",
+    "subtitle": "Carol & Jimmy Owens",
+    "basename": "lord-make-me-like-you"
+  },
+  "lord-you-are-my-everything": {
+    "title": "Lord you are my everything",
+    "subtitle": "Aniceto Nazareth",
+    "basename": "lord-you-are-my-everything"
+  },
+  "lord-you-have-touched-my-heart": {
+    "title": "Lord, You have touched my heart",
+    "subtitle": "Aniceto Nazareth",
+    "basename": "lord-you-have-touched-my-heart"
+  },
+  "lose-yourself-in-me": {
+    "title": "Lose yourself in me",
+    "subtitle": "Rev. Carey landry (verse 2 & 3 by Aniceto Nazareth)",
+    "basename": "lose-yourself-in-me"
+  },
+  "love-has-captured-the-night": {
+    "title": "Love has captured the night",
+    "subtitle": "Josh Blakesley",
+    "basename": "love-has-captured-the-night"
+  },
+  "make-me-a-servant": {
+    "title": "Make me a servant",
+    "subtitle": "Kelly Willard",
+    "basename": "make-me-a-servant"
+  },
+  "make-me-an-instrument": {
+    "title": "Make me an instrument",
+    "subtitle": "St. Francis of Assisi",
+    "basename": "make-me-an-instrument"
+  },
+  "maranatha-maranatha-maranatha": {
+    "title": "Maranatha, Maranatha, Maranatha",
+    "subtitle": "Estelle White",
+    "basename": "maranatha-maranatha-maranatha"
+  },
+  "mary-from-thy-sacred-image": {
+    "title": "Mary from thy sacred image",
+    "subtitle": "Hymn to Mother of Perpetual Succor",
+    "basename": "mary-from-thy-sacred-image"
+  },
+  "mother-dear-o-pray-for-me": {
+    "title": "Mother dear O pray for me",
+    "basename": "mother-dear-o-pray-for-me"
+  },
+  "mother-dearest-mother-fairest": {
+    "title": "Mother dearest, mother fairest",
+    "basename": "mother-dearest-mother-fairest"
+  },
+  "mother-of-god-plead-with-your-son": {
+    "title": "Mother of God, plead with your Son",
+    "basename": "mother-of-god-plead-with-your-son"
+  },
+  "my-hearts-like-a-flute": {
+    "title": "My heart's like a flute",
+    "subtitle": "Noel Colombier",
+    "basename": "my-hearts-like-a-flute"
+  },
+  "my-lord-he-died-for-a-kingdom": {
+    "title": "My Lord He died for a kingdom",
+    "basename": "my-lord-he-died-for-a-kingdom"
+  },
+  "my-soul-rejoices": {
+    "title": "My soul rejoices",
+    "subtitle": "Jackie François",
+    "basename": "my-soul-rejoices"
+  },
+  "nearer-my-god-to-thee": {
+    "title": "Nearer My God to thee",
+    "subtitle": "Sarah & Eliza Adams",
+    "basename": "nearer-my-god-to-thee"
+  },
+  "no-one-can-give-to-me-that-peace": {
+    "title": "No one can give to me that peace",
+    "subtitle": "Douglas Rowe SJ",
+    "basename": "no-one-can-give-to-me-that-peace"
+  },
+  "o-cross-erected": {
+    "title": "O cross erected",
+    "basename": "o-cross-erected"
+  },
+  "o-let-the-son-of-god-enfold-you": {
+    "title": "O let the Son of God enfold you",
+    "subtitle": "John Wimber",
+    "basename": "o-let-the-son-of-god-enfold-you"
+  },
+  "o-lord-furnace-of-love": {
+    "title": "O Lord, furnace of Love",
+    "subtitle": "Aniceto Nazareth",
+    "basename": "o-lord-furnace-of-love"
+  },
+  "o-maiden-will-you-be": {
+    "title": "O maiden will you be",
+    "subtitle": "L. Pereira",
+    "basename": "o-maiden-will-you-be"
+  },
+  "o-sacrament-most-holy": {
+    "title": "O Sacrament Most Holy",
+    "basename": "o-sacrament-most-holy"
+  },
+  "on-a-hill-far-away": {
+    "title": "On a hill far away",
+    "basename": "on-a-hill-far-away"
+  },
+  "once-in-royal-davids-city": {
+    "title": "Once in royal David's city",
+    "subtitle": "Cecil Frances Alexander",
+    "basename": "once-in-royal-davids-city"
+  },
+  "our-hearts-were-made-for-you-lord": {
+    "title": "Our hearts were made for You, Lord",
+    "basename": "our-hearts-were-made-for-you-lord"
+  },
+  "praise-him-praise-him": {
+    "title": "Praise Him, praise Him",
+    "basename": "praise-him-praise-him"
+  },
+  "ready-the-way": {
+    "title": "Ready the way",
+    "subtitle": "Curtis Stephan",
+    "basename": "ready-the-way"
+  },
+  "rejoice-evermore": {
+    "title": "Rejoice evermore",
+    "basename": "rejoice-evermore"
+  },
+  "shepherd-of-my-soul": {
+    "title": "Shepherd of my soul",
+    "basename": "shepherd-of-my-soul"
+  },
+  "sing-life-sing-love-sing-jesus": {
+    "title": "Sing life, sing love, sing Jesus",
+    "basename": "sing-life-sing-love-sing-jesus"
+  },
+  "sing-my-tongue": {
+    "title": "Sing my tongue the Saviour's glory",
+    "subtitle": "St. Thomas Aquinas",
+    "basename": "sing-my-tongue"
+  },
+  "sons-of-god-hear-his-holy-word": {
+    "title": "Sons of God, hear His holy Word",
+    "basename": "sons-of-god-hear-his-holy-word"
+  },
+  "soul-of-my-saviour": {
+    "title": "Soul of my Saviour",
+    "subtitle": "Anima Christi (Traditional 14th Century)",
+    "basename": "soul-of-my-saviour"
+  },
+  "sweet-heart-of-jesus": {
+    "title": "Sweet heart of Jesus",
+    "basename": "sweet-heart-of-jesus"
+  },
+  "sweet-sacrament-divine": {
+    "title": "Sweet Sacrament divine",
+    "basename": "sweet-sacrament-divine"
+  },
+  "take-our-bread": {
+    "title": "Take our bread",
+    "basename": "take-our-bread"
+  },
+  "thank-you-lord-for-all-youve-done": {
+    "title": "Thank You, Lord, for all You've done",
+    "basename": "thank-you-lord-for-all-youve-done"
+  },
+  "thank-you-o-lord-your-love-is-boundless": {
+    "title": "Thank You, O Lord, Your love is boundless",
+    "basename": "thank-you-o-lord-your-love-is-boundless"
+  },
+  "thanks-be-to-god": {
+    "title": "Thanks be to God",
+    "basename": "thanks-be-to-god"
+  },
+  "the-angel-gabriel-from-heaven-came": {
+    "title": "The angel Gabriel from heaven came",
+    "subtitle": "Basque, Sabine Baring-Gould",
+    "basename": "the-angel-gabriel-from-heaven-came"
+  },
+  "the-cup-of-blessing-that-we-raise": {
+    "title": "The cup of blessing that we raise",
+    "basename": "the-cup-of-blessing-that-we-raise"
+  },
+  "the-lord-is-my-shepherd": {
+    "title": "The Lord is my shepherd",
+    "basename": "the-lord-is-my-shepherd"
+  },
+  "the-more-we-hear": {
+    "title": "The more we hear",
+    "basename": "the-more-we-hear"
+  },
+  "the-saviour-is-waiting": {
+    "title": "The Saviour is waiting",
+    "basename": "the-saviour-is-waiting"
+  },
+  "the-steadfast-love": {
+    "title": "The steadfast love",
+    "basename": "the-steadfast-love"
+  },
+  "then-sings-my-soul": {
+    "title": "Then sings my soul",
+    "basename": "then-sings-my-soul"
+  },
+  "these-forty-days": {
+    "title": "These forty days",
+    "basename": "these-forty-days"
+  },
+  "this-is-the-truth-sent-from-above": {
+    "title": "This is the truth sent from above",
+    "subtitle": "Herefordshire Carol",
+    "basename": "this-is-the-truth-sent-from-above"
+  },
+  "though-the-mountains-may-fall": {
+    "title": "Though the mountains may fall",
+    "basename": "though-the-mountains-may-fall"
+  },
+  "walk-with-me-o-my-lord": {
+    "title": "Walk with me O my Lord",
+    "basename": "walk-with-me-o-my-lord"
+  },
+  "water-water-and-the-spirit": {
+    "title": "Water, water and the Spirit",
+    "basename": "water-water-and-the-spirit"
+  },
+  "we-offer-you-o-lord-divine": {
+    "title": "We offer You, O Lord divine",
+    "basename": "we-offer-you-o-lord-divine"
+  },
+  "we-see-the-troubles-in-our-lives": {
+    "title": "We see the troubles in our lives",
+    "basename": "we-see-the-troubles-in-our-lives"
+  },
+  "we-want-to-give-you-thanks-lord": {
+    "title": "We want to give You thanks, Lord",
+    "basename": "we-want-to-give-you-thanks-lord"
+  },
+  "what-sweeter-music-can-we-bring": {
+    "title": "What sweeter music can we bring?",
+    "subtitle": "Robert Herrick",
+    "basename": "what-sweeter-music-can-we-bring"
+  },
+  "whatsoever-you-do-to-the-least-of-my-people": {
+    "title": "Whatsoever you do",
+    "basename": "whatsoever-you-do-to-the-least-of-my-people"
+  }
+}
