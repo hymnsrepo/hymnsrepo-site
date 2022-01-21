@@ -1,6 +1,5 @@
 const gulp = require('gulp');
 const workbox = require('workbox-build');
-const ghPages = require('@justeat/gulp-gh-pages');
 
 gulp.task('generate-sw', () => {
   return workbox.generateSW({
@@ -42,6 +41,3 @@ gulp.task('generate-sw', () => {
   });
 });
  
-gulp.task('deploy', () => 
-  gulp.src('./public/**/*').pipe(ghPages())
-);
