@@ -21,3 +21,8 @@ disableKinds:
 sitemap:
   changefreq: monthly
   priority: 0.5
+
+markup:
+  goldmark:
+    renderer:
+      hardWraps: true
