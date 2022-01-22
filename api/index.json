@@ -6,11 +6,17 @@
   "a-spotless-rose-is-blowing": {
     "title": "A spotless Rose is blowing",
     "subtitle": "15th Century Traditional German",
+    "seasons": [
+      "Christmas"
+    ],
     "basename": "a-spotless-rose-is-blowing"
   },
   "a-tender-shoot-has-started-up": {
     "title": "A tender shoot has started up",
     "subtitle": "Otto Goldschmidt",
+    "seasons": [
+      "Christmas"
+    ],
     "basename": "a-tender-shoot-has-started-up"
   },
   "abide-with-me": {
@@ -53,6 +59,9 @@
   },
   "all-you-children-of-peace": {
     "title": "All you children of peace",
+    "seasons": [
+      "Advent"
+    ],
     "basename": "all-you-children-of-peace"
   },
   "amazing-grace": {
@@ -61,6 +70,9 @@
   },
   "angels-we-have-heard-on-high": {
     "title": "Angels we have heard on high",
+    "seasons": [
+      "Christmas"
+    ],
     "basename": "angels-we-have-heard-on-high"
   },
   "as-i-kneel-before-you": {
@@ -79,6 +91,9 @@
   "at-the-cross-her-station-keeping": {
     "title": "At the cross her station keeping",
     "subtitle": "Stabet Mater (Traditional 13th Century)",
+    "seasons": [
+      "Lent"
+    ],
     "basename": "at-the-cross-her-station-keeping"
   },
   "at-the-name-of-jesus": {
@@ -91,6 +106,9 @@
   },
   "away-in-a-manger": {
     "title": "Away in a manager",
+    "seasons": [
+      "Christmas"
+    ],
     "basename": "away-in-a-manger"
   },
   "be-exalted": {
@@ -119,6 +137,9 @@
   },
   "bestir-thy-power": {
     "title": "Bestir Thy power",
+    "seasons": [
+      "Advent"
+    ],
     "basename": "bestir-thy-power"
   },
   "bind-us-together": {
@@ -163,11 +184,17 @@
   },
   "come-back-to-me": {
     "title": "Come back to me",
+    "seasons": [
+      "Lent"
+    ],
     "basename": "come-back-to-me"
   },
   "come-come-emmanuel": {
     "title": "Come, Come Emmanuel",
     "subtitle": "Steve Angrisano",
+    "seasons": [
+      "Advent"
+    ],
     "basename": "come-come-emmanuel"
   },
   "come-holy-ghost": {
@@ -185,16 +212,27 @@
   "come-thou-long-expected-jesus": {
     "title": "Come thou long expected Jesus",
     "subtitle": "Charles Wesley & Mark E Hunt",
+    "seasons": [
+      "Advent",
+      "Christmas"
+    ],
     "basename": "come-thou-long-expected-jesus"
   },
   "come-to-us": {
     "title": "Come to us",
     "subtitle": "Greg Walton, Mary Walton",
+    "seasons": [
+      "Advent",
+      "Christmas"
+    ],
     "basename": "come-to-us"
   },
   "comfort-comfort-my-people": {
     "title": "Comfort, comfort my people",
     "subtitle": "Anthony D'Souza",
+    "seasons": [
+      "Advent"
+    ],
     "basename": "comfort-comfort-my-people"
   },
   "count-your-blessings": {
@@ -238,6 +276,9 @@
   },
   "from-the-depths": {
     "title": "From the depths",
+    "seasons": [
+      "Lent"
+    ],
     "basename": "from-the-depths"
   },
   "give-me-oil-in-my-lamp": {
@@ -273,6 +314,9 @@
   "god-rest-ye-merry-gentlemen": {
     "title": "God rest ye merry, gentlemen",
     "subtitle": "Traditional English, 18th century",
+    "seasons": [
+      "Christmas"
+    ],
     "basename": "god-rest-ye-merry-gentlemen"
   },
   "great-indeed-are-your-works": {
@@ -301,11 +345,17 @@
   "hail-to-thee-true-body-sprung": {
     "title": "Hail to thee, true body sprung",
     "subtitle": "St. Thomas Aquinas",
+    "seasons": [
+      "Lent"
+    ],
     "basename": "hail-to-thee-true-body-sprung"
   },
   "he-is-lord": {
     "title": "He is Lord",
     "subtitle": "Aniceto Nazareth",
+    "seasons": [
+      "Easter"
+    ],
     "basename": "he-is-lord"
   },
   "hide-me-in-the-hollow-of-your-loving-hand": {
@@ -359,6 +409,9 @@
   "i-have-decided": {
     "title": "I have decided",
     "subtitle": "Harry Dixon Loes",
+    "seasons": [
+      "Lent"
+    ],
     "basename": "i-have-decided"
   },
   "i-now-no-longer-live": {
@@ -402,6 +455,9 @@
   "in-the-bleak-mid-winter": {
     "title": "In the bleak midwinter",
     "subtitle": "Christina Georgina Rossetti",
+    "seasons": [
+      "Christmas"
+    ],
     "basename": "in-the-bleak-mid-winter"
   },
   "in-the-lord-is-my-hope": {
@@ -417,23 +473,38 @@
   "it-came-upon-the-midnight-clear": {
     "title": "It came upon the midnight clear",
     "subtitle": "Edmund Sears",
+    "seasons": [
+      "Christmas"
+    ],
     "basename": "it-came-upon-the-midnight-clear"
   },
   "it-was-six-days-before-the-passover": {
     "title": "It was six days before the passover",
+    "seasons": [
+      "Lent"
+    ],
     "basename": "it-was-six-days-before-the-passover"
   },
   "ive-wandered-far-away-from-god": {
     "title": "I've wandered far away from God",
+    "seasons": [
+      "Lent"
+    ],
     "basename": "ive-wandered-far-away-from-god"
   },
   "jesus-always-loved-his-own": {
     "title": "Jesus always loved His own",
+    "seasons": [
+      "Lent"
+    ],
     "basename": "jesus-always-loved-his-own"
   },
   "jesus-come-jesus-come": {
     "title": "Jesus Come, Jesus Come",
     "subtitle": "Pauline Lobo",
+    "seasons": [
+      "Advent"
+    ],
     "basename": "jesus-come-jesus-come"
   },
   "jesus-is-the-joy-of-living": {
@@ -500,6 +571,9 @@
   "lord-make-me-like-you": {
     "title": "Lord make me like You",
     "subtitle": "Carol & Jimmy Owens",
+    "seasons": [
+      "Lent"
+    ],
     "basename": "lord-make-me-like-you"
   },
   "lord-you-are-my-everything": {
@@ -520,6 +594,9 @@
   "love-has-captured-the-night": {
     "title": "Love has captured the night",
     "subtitle": "Josh Blakesley",
+    "seasons": [
+      "Christmas"
+    ],
     "basename": "love-has-captured-the-night"
   },
   "make-me-a-servant": {
@@ -535,6 +612,9 @@
   "maranatha-maranatha-maranatha": {
     "title": "Maranatha, Maranatha, Maranatha",
     "subtitle": "Estelle White",
+    "seasons": [
+      "Advent"
+    ],
     "basename": "maranatha-maranatha-maranatha"
   },
   "mary-from-thy-sacred-image": {
@@ -552,6 +632,9 @@
   },
   "mother-of-god-plead-with-your-son": {
     "title": "Mother of God, plead with your Son",
+    "seasons": [
+      "Lent"
+    ],
     "basename": "mother-of-god-plead-with-your-son"
   },
   "my-hearts-like-a-flute": {
@@ -561,6 +644,9 @@
   },
   "my-lord-he-died-for-a-kingdom": {
     "title": "My Lord He died for a kingdom",
+    "seasons": [
+      "Easter"
+    ],
     "basename": "my-lord-he-died-for-a-kingdom"
   },
   "my-soul-rejoices": {
@@ -580,6 +666,9 @@
   },
   "o-cross-erected": {
     "title": "O cross erected",
+    "seasons": [
+      "Lent"
+    ],
     "basename": "o-cross-erected"
   },
   "o-let-the-son-of-god-enfold-you": {
@@ -595,6 +684,9 @@
   "o-maiden-will-you-be": {
     "title": "O maiden will you be",
     "subtitle": "L. Pereira",
+    "seasons": [
+      "Advent"
+    ],
     "basename": "o-maiden-will-you-be"
   },
   "o-sacrament-most-holy": {
@@ -603,11 +695,17 @@
   },
   "on-a-hill-far-away": {
     "title": "On a hill far away",
+    "seasons": [
+      "Lent"
+    ],
     "basename": "on-a-hill-far-away"
   },
   "once-in-royal-davids-city": {
     "title": "Once in royal David's city",
     "subtitle": "Cecil Frances Alexander",
+    "seasons": [
+      "Christmas"
+    ],
     "basename": "once-in-royal-davids-city"
   },
   "our-hearts-were-made-for-you-lord": {
@@ -621,6 +719,9 @@
   "ready-the-way": {
     "title": "Ready the way",
     "subtitle": "Curtis Stephan",
+    "seasons": [
+      "Advent"
+    ],
     "basename": "ready-the-way"
   },
   "rejoice-evermore": {
@@ -676,6 +777,9 @@
   "the-angel-gabriel-from-heaven-came": {
     "title": "The angel Gabriel from heaven came",
     "subtitle": "Basque, Sabine Baring-Gould",
+    "seasons": [
+      "Christmas"
+    ],
     "basename": "the-angel-gabriel-from-heaven-came"
   },
   "the-cup-of-blessing-that-we-raise": {
@@ -704,11 +808,17 @@
   },
   "these-forty-days": {
     "title": "These forty days",
+    "seasons": [
+      "Lent"
+    ],
     "basename": "these-forty-days"
   },
   "this-is-the-truth-sent-from-above": {
     "title": "This is the truth sent from above",
     "subtitle": "Herefordshire Carol",
+    "seasons": [
+      "Christmas"
+    ],
     "basename": "this-is-the-truth-sent-from-above"
   },
   "though-the-mountains-may-fall": {
@@ -738,6 +848,9 @@
   "what-sweeter-music-can-we-bring": {
     "title": "What sweeter music can we bring?",
     "subtitle": "Robert Herrick",
+    "seasons": [
+      "Christmas"
+    ],
     "basename": "what-sweeter-music-can-we-bring"
   },
   "whatsoever-you-do-to-the-least-of-my-people": {
