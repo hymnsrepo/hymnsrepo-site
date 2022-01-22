@@ -1,6 +1,7 @@
 ---
 title: What sweeter music can we bring?
 subtitle: Robert Herrick
+seasons: [Christmas]
 ---
 
 What sweeter music can we bring   

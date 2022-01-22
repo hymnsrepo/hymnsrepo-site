@@ -1,6 +1,7 @@
 ---
 title: "Come, Come Emmanuel"
 subtitle: "Steve Angrisano"
+seasons: [Advent]
 ---
 
 **Come, come, Emmanuel!  

@@ -1,6 +1,7 @@
 ---
 title: Jesus Come, Jesus Come
 subtitle: Pauline Lobo
+seasons: [Advent]
 ---
 
 **Jesus come, Jesus come Jesus come   

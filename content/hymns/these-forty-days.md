@@ -1,5 +1,6 @@
 ---
 title: "These forty days"
+seasons: [Lent]
 ---
 
 These forty days O Lord we spend   

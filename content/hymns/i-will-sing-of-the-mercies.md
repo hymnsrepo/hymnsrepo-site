@@ -18,6 +18,6 @@ My arm shall make Him strong,
 My hand shall be with Him for generations.
 
 I will make with him forever,   
-My covenant, my convenant.   
+My covenant, my covenant.   
 He will say, "You are my Father,   
 My God, my rock my fortress who saves me."

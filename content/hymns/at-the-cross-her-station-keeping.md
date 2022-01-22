@@ -1,6 +1,7 @@
 ---
 title: "At the cross her station keeping"
 subtitle: "Stabet Mater (Traditional 13th Century)"
+seasons: [Lent]
 ---
 
 At the cross her station keeping,  

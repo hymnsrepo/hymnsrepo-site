@@ -1,6 +1,8 @@
 ---
 title: I have decided
 subtitle: Harry Dixon Loes
+seasons: [Lent]
+
 ---
 
 I have decided to follow Jesus (x3)   

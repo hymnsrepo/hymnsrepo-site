@@ -24,4 +24,4 @@ Jesus who sets me free.
 Jesus, the wisdom and power of the Lord,   
 Jesus, our high priest, our Passover Lamb,   
 Jesus, the brightness and image of God,   
-jesus, the King of peace.
+Jesus, the King of peace.

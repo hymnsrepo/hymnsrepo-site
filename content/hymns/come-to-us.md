@@ -1,6 +1,7 @@
 ---
 title: "Come to us"
 subtitle: "Greg Walton, Mary Walton"
+seasons: [Advent, Christmas]
 ---
 
 Scattered and broken, bent in our way,  

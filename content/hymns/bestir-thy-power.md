@@ -1,5 +1,6 @@
 ---
 title: "Bestir Thy power"
+seasons: [Advent]
 ---
 
 **Bestir Thy power and come, Lord,   

@@ -1,5 +1,6 @@
 ---
 title: "Mother of God, plead with your Son"
+seasons: [Lent]
 ---
 
 **Mother of God, plead with your Son,   

@@ -4,7 +4,7 @@ title: "We see the troubles in our lives"
 
 We see the troubles in our lives,   
 We wonder why things are this way   
-Why is there pain? Why is there lonliness?   
+Why is there pain? Why is there loneliness?   
 Is there one who can help us in our need?
 
 **Look up to the Lord, put your hope in the Saviour   

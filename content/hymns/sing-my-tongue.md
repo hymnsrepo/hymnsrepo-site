@@ -44,4 +44,5 @@ And the Spirit, God proceeding
 From them Each eternally,   
 Be salvation, honor, blessing,   
 Might and endless majesty.   
+
 Amen.

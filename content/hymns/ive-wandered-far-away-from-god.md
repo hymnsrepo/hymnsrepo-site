@@ -1,5 +1,6 @@
 ---
 title: "I've wandered far away from God"
+seasons: [Lent]
 ---
 
 I've wandered far away from God,   

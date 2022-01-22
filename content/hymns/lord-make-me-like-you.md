@@ -1,6 +1,7 @@
 ---
 title: Lord make me like You
 subtitle: Carol & Jimmy Owens
+seasons: [Lent]
 ---
 
 **Lord make me like You   
@@ -19,7 +20,7 @@ See, I have washed your feet
 To set and example for all of you   
 Of service and of love.
 
-The Spirit annoints me and calls me by name   
+The Spirit anoints me and calls me by name   
 To bring good news to the poor,   
 Release to the captives and sight to the blind,   
 To set the prisoners free.

@@ -1,6 +1,7 @@
 ---
 title: The angel Gabriel from heaven came
 subtitle: Basque, Sabine Baring-Gould
+seasons: [Christmas]
 ---
 
 1. The angel Gabriel from heaven came   

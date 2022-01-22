@@ -1,5 +1,6 @@
 ---
 title: "O cross erected"
+seasons: [Lent]
 ---
 
 *O cross erected above the world   

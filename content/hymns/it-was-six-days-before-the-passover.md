@@ -1,5 +1,6 @@
 ---
 title: "It was six days before the passover"
+seasons: [Lent]
 ---
 
 It was six days before the Passover.   

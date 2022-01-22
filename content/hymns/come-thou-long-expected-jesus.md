@@ -1,6 +1,7 @@
 ---
 title: "Come thou long expected Jesus"
 subtitle: "Charles Wesley & Mark E Hunt"
+seasons: [Advent, Christmas]
 ---
 
 Come, Thou long-expected Jesus  

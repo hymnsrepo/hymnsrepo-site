@@ -1,6 +1,7 @@
 ---
 title: He is Lord
 subtitle: Aniceto Nazareth
+seasons: [Easter]
 ---
 
 **He is Lord, He is Lord,   

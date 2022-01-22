@@ -1,5 +1,6 @@
 ---
 title: "Come back to me"
+seasons: [Lent]
 ---
 
 Come back to me with all your heart   
@@ -16,4 +17,4 @@ Integrity and justice
 With tenderness you shall know.
 
 You shall sleep secure with peace   
-Faithfullness will be your joy.
+Faithfulness will be your joy.

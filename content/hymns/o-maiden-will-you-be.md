@@ -1,6 +1,7 @@
 ---
 title: O maiden will you be
 subtitle: L. Pereira
+seasons: [Advent]
 ---
 
 O maiden will you be the mother of the Saviour?   
