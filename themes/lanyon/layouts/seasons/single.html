@@ -1,0 +1,23 @@
+{{ define "content" }}
+{{ $season := .Params.season }}
+
+<div class="page">
+    <h1 class="page-title">{{ .Title }}</h1>
+
+    {{ .Content }}
+
+    <ul>
+    {{ range .Site.RegularPages.ByTitle }}
+        {{ if eq .Type "hymns" }}
+            {{ if in .Params.seasons $season }}
+            <li class="hymn-list-item">
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </li>
+            {{ end }}
+        {{ end }}
+    {{ end }}
+    </ul>
+
+</div>
+
+{{end}}
