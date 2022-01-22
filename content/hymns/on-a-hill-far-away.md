@@ -1,5 +1,6 @@
 ---
 title: "On a hill far away"
+seasons: [Lent]
 ---
 
 On a hill far away stood an old rugged cross   

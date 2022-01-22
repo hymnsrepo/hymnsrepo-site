@@ -1,6 +1,7 @@
 ---
 title: Maranatha, Maranatha, Maranatha
 subtitle: Estelle White
+seasons: [Advent]
 ---
 
 Like a sea without a shore,

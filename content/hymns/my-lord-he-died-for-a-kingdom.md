@@ -1,5 +1,6 @@
 ---
 title: "My Lord He died for a kingdom"
+seasons: [Easter]
 ---
 
 My Lord, He died for a Kingdom   

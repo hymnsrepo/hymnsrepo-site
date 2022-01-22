@@ -1,6 +1,7 @@
 ---
 title: "Ready the way"
 subtitle: "Curtis Stephan"
+seasons: [Advent]
 ---
 
 **Ready the way, ready the way,  

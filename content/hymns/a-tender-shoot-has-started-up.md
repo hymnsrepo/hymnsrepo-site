@@ -1,6 +1,7 @@
 ---
 title: A tender shoot has started up
 subtitle: Otto Goldschmidt
+seasons: [Christmas]
 ---
 
 A tender shoot has started up   

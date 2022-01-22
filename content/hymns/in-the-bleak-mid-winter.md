@@ -1,6 +1,7 @@
 ---
 title: In the bleak midwinter
 subtitle: Christina Georgina Rossetti
+seasons: [Christmas]
 ---
 
 1. In the bleak mid-winter   

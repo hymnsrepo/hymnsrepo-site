@@ -1,6 +1,7 @@
 ---
 title: Comfort, comfort my people
 subtitle: Anthony D'Souza
+seasons: [Advent]
 ---
 
 **Comfort, comfort my people, says the Lord your God.   

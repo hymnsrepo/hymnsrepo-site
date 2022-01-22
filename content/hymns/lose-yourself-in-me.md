@@ -20,5 +20,5 @@ Will only find that life was lived in vain.
 
 If we have died with Him, we shall live with Him   
 If we endure, we'll reign with Him   
-Though faithless we may be, faithfull He'll remain   
+Though faithless we may be, faithful He'll remain   
 For how can Christ be false unto Himself?

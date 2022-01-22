@@ -14,7 +14,7 @@ And reveal to you my mind.
 
 I will take you from the nations   
 And will bring you to your land.   
-From your idos I will cleanse you   
+From your idols I will cleanse you   
 And you'll cherish my command.
 
 I will put my law within you,   

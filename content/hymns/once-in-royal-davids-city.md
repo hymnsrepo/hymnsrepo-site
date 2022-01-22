@@ -1,6 +1,7 @@
 ---
 title: Once in royal David's city
 subtitle: Cecil Frances Alexander
+seasons: [Christmas]
 ---
 
 Once in royal David's city,   

@@ -1,6 +1,7 @@
 ---
 title: A spotless Rose is blowing 
 subtitle: 15th Century Traditional German
+seasons: [Christmas]
 ---
 
 A spotless Rose is blowing   

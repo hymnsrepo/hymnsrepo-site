@@ -1,6 +1,7 @@
 ---
 title: It came upon the midnight clear
 subtitle: Edmund Sears
+seasons: [Christmas]
 ---
 
 1. It came upon the midnight clear,   

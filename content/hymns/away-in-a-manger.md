@@ -1,5 +1,6 @@
 ---
 title: "Away in a manager"
+seasons: [Christmas]
 ---
 
 Away in a manager; no crib for His bed   

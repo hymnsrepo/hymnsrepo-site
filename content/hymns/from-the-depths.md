@@ -1,5 +1,6 @@
 ---
 title: "From the depths"
+seasons: [Lent]
 ---
 
 **From the depths I call to You, O Lord,   

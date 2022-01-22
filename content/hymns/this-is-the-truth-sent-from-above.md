@@ -1,6 +1,7 @@
 ---
 title: This is the truth sent from above
 subtitle: Herefordshire Carol
+seasons: [Christmas]
 ---
 
 1. This is the truth sent from above,   

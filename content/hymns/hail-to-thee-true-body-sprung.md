@@ -1,6 +1,7 @@
 ---
 title: "Hail to thee, true body sprung"
 subtitle: "St. Thomas Aquinas"
+seasons: [Lent]
 ---
 
 Hail to thee, true body sprung   

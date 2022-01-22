@@ -1,6 +1,7 @@
 ---
 title: "Love has captured the night"
 subtitle: "Josh Blakesley"
+seasons: [Christmas]
 ---
 
 Love laid in a lowly manger:  

@@ -23,7 +23,7 @@ If they have hated me, they will hate you.
 1. Take nothing for your pay, no bread, no money.   
 Your treasure must be one no moth destroys.
 
-1. So let your loins be girt, your lamps aburning.   
+1. So let your loins be girt, your lamps a burning.   
 And be like those who wait for my return.
 
 1. You who have followed me, when life is ended,   

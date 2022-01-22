@@ -1,5 +1,6 @@
 ---
 title: "All you children of peace"
+seasons: [Advent]
 ---
 
 All you children of peace   

@@ -1,6 +1,7 @@
 ---
 title: God rest ye merry, gentlemen
 subtitle: Traditional English, 18th century
+seasons: [Christmas]
 ---
 
 1. God rest you merry, gentlemen,   

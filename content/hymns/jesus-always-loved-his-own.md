@@ -1,5 +1,6 @@
 ---
 title: "Jesus always loved His own"
+seasons: [Lent]
 ---
 
 Jesus always loved His own   

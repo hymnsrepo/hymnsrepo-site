@@ -1,5 +1,6 @@
 ---
 title: "Angels we have heard on high"
+seasons: [Christmas]
 ---
 
 Angels we have heard on high   

@@ -7,7 +7,7 @@ Those who come to me shall not hunger,
 Those who believe in me shall not thirst.   
 No one can come to me, unless the Father draw him.
 
-***And I will raise them up (x3)***   
+***And I will raise them up [^1] (x3)***   
 **On the last day!**
 
 The bread that I will give   
@@ -29,6 +29,4 @@ That you are the Christ,
 The Son of God who has come into the world.   
 Has come into the world.
 
-<small>
-*Use* ***And I will raise him/her up*** *for funerals*
-</small>
+ [^1]: Use **And I will raise him up** or **And I will raise her up** for funerals
