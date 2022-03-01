@@ -728,6 +728,13 @@
     "title": "Rejoice evermore",
     "basename": "rejoice-evermore"
   },
+  "remember-man": {
+    "title": "Remember man",
+    "seasons": [
+      "Lent"
+    ],
+    "basename": "remember-man"
+  },
   "shepherd-of-my-soul": {
     "title": "Shepherd of my soul",
     "basename": "shepherd-of-my-soul"
