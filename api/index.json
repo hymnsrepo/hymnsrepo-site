@@ -342,6 +342,14 @@
     "subtitle": "Aniceto Nazareth",
     "basename": "hail-mary-full-of-grace"
   },
+  "hail-queen-of-heaven": {
+    "title": "Hail Queen of Heaven",
+    "subtitle": "Fr. John Lingard",
+    "tags": [
+      "mary"
+    ],
+    "basename": "hail-queen-of-heaven"
+  },
   "hail-to-thee-true-body-sprung": {
     "title": "Hail to thee, true body sprung",
     "subtitle": "St. Thomas Aquinas",
@@ -724,6 +732,13 @@
     ],
     "basename": "ready-the-way"
   },
+  "regina-caeli-laetare": {
+    "title": "Regina Caeli, Laetare",
+    "tags": [
+      "mary"
+    ],
+    "basename": "regina-caeli-laetare"
+  },
   "rejoice-evermore": {
     "title": "Rejoice evermore",
     "basename": "rejoice-evermore"
@@ -734,6 +749,13 @@
       "Lent"
     ],
     "basename": "remember-man"
+  },
+  "salve-regina": {
+    "title": "Salve Regina",
+    "tags": [
+      "mary"
+    ],
+    "basename": "salve-regina"
   },
   "shepherd-of-my-soul": {
     "title": "Shepherd of my soul",
@@ -756,6 +778,13 @@
     "title": "Soul of my Saviour",
     "subtitle": "Anima Christi (Traditional 14th Century)",
     "basename": "soul-of-my-saviour"
+  },
+  "star-of-the-ocean": {
+    "title": "Star of the Ocean",
+    "tags": [
+      "mary"
+    ],
+    "basename": "star-of-the-ocean"
   },
   "sweet-heart-of-jesus": {
     "title": "Sweet heart of Jesus",
