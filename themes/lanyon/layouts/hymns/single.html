@@ -2,6 +2,11 @@
     <div class="page">
     <h1 class="page-title">{{ .Title }}</h1>
     <span class="post-subtitle">{{ .Params.subtitle }}</span>
+
+    {{ range .Params.tags }}
+        <span class="tag">{{ . }}</span>
+    {{ end }}
+
         {{ .Content }}
     </div>
 {{ end }}

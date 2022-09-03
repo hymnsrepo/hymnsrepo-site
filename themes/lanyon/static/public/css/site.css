@@ -15,6 +15,11 @@
   letter-spacing: .5px;
 }
 
+.tag {
+  display: inline-block;
+  padding: 2px 4px;
+  margin: 0 2px;
+}
 
 .footnotes {
   font-style: italic;
