@@ -1,0 +1,22 @@
+{{ define "content" }}
+
+<div class="page">
+    <h1 class="page-title">{{ .Page.Title }}</h1>
+    {{ .Content }}
+</div>
+
+<ul>
+{{ range $key, $taxonomy := .Site.Taxonomies.tag }}    
+
+    {{ range .Site.RegularPages.ByTitle }}
+        {{ if eq .Type "hymns" }}
+            <li class="hymn-list-item" hugo-nav="{{ .RelPermalink }}">
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </li>
+        {{ end }}
+    {{ end }}
+    
+{{ end }}
+</ul>
+
+{{end}}
