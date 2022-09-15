@@ -15,10 +15,18 @@
   letter-spacing: .5px;
 }
 
-.tag {
+a.tag {
   display: inline-block;
-  padding: 2px 4px;
+  padding: 2px 8px;
   margin: 0 2px;
+  background: #aaa;
+  border-radius: 4px;
+  font-size: .75em;
+  color: black !important;
+}
+a.tag:hover {
+  text-decoration: none;
+  background: #9a9a9a;
 }
 
 .footnotes {

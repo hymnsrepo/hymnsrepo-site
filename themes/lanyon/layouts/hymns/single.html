@@ -5,13 +5,14 @@
 
     {{ .Content }}
 
-        <br />
-
-        {{ range (.GetTerms "tags") }}
-            {{ with $.Site.GetPage (printf "/tags/%s" .Title) }}
-                <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-            {{end}}
-        {{ end }}
+    <br />
+    {{ range (.GetTerms "tags") }}
+        {{ with $.Site.GetPage (printf "/tags/%s" .Title) }}
+            <a class="tag" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+        {{end}}
+    {{ end }}
+    <br />
+        
 
     </div>
 {{ end }}
