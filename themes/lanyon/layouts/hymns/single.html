@@ -3,10 +3,15 @@
     <h1 class="page-title">{{ .Title }}</h1>
     <span class="post-subtitle">{{ .Params.subtitle }}</span>
 
-    {{ range .Params.tags }}
-        <span class="tag">{{ . }}</span>
-    {{ end }}
+    {{ .Content }}
 
-        {{ .Content }}
+        <br />
+
+        {{ range (.GetTerms "tags") }}
+            {{ with $.Site.GetPage (printf "/tags/%s" .Title) }}
+                <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+            {{end}}
+        {{ end }}
+
     </div>
 {{ end }}
