@@ -1,5 +1,6 @@
 ---
 title: "Sweet Sacrament divine"
+tags: [adoration]
 ---
 
 Sweet Sacrament divine,   

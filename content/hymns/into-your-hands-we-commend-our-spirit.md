@@ -13,7 +13,7 @@ Far from my prayers, far from my cry?
 To You I call and you never answer me,   
 You send no comfort and I don't know why!
 
-You've been my guide since I was very yound,   
+You've been my guide since I was very young,   
 You showed the way, you brought relief;   
 But now I'm lonely, nobody's by my side:   
 Take heed, my Lord, listen to my prayer.

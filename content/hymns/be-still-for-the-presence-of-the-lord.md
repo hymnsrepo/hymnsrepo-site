@@ -1,5 +1,6 @@
 ---
 title: "Be still for the presence of the Lord"
+tags: [adoration]
 ---
 
 Be still for the presence of the Lord, the Holy One is near.   

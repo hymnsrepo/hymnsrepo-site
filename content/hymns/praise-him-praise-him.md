@@ -1,5 +1,6 @@
 ---
 title: "Praise Him, praise Him"
+tags: [adoration]
 ---
 
 1. _Praise Him, praise Him   

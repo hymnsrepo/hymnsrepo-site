@@ -1,5 +1,6 @@
 ---
 title: "Let us bow in adoration"
+tags: [adoration]
 ---
 
 Let us bow in adoration   
