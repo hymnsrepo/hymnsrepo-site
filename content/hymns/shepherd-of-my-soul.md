@@ -1,5 +1,6 @@
 ---
 title: "Shepherd of my soul"
+tags: [communion]
 ---
 
 Shepherd of my soul I give you full control,   

@@ -2,6 +2,7 @@
 title: "Come, Come Emmanuel"
 subtitle: "Steve Angrisano"
 seasons: [Advent]
+tags: [communion]
 ---
 
 **Come, come, Emmanuel!  

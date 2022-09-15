@@ -1,5 +1,6 @@
 ---
 title: "I am the bread of life"
+tags: [communion]
 ---
 
 I am the bread of life;   

@@ -1,5 +1,6 @@
 ---
 title: "The Lord is my shepherd"
+tags: [communion]
 ---
 
 The Lord is my shepherd, there is nothing I shall want.   

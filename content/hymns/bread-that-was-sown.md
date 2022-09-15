@@ -1,5 +1,6 @@
 ---
 title: "Bread that was sown"
+tags: [communion]
 ---
 
 Bread that was sown in our hills and valleys,   

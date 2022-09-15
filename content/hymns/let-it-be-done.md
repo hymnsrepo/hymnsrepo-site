@@ -1,6 +1,7 @@
 ---
 title: "Let it be done"
 subtitle: "Chris Muglia"
+seasons: [Christmas]
 ---
 
 When she heard the voice of God   

@@ -2,6 +2,7 @@
 title: Lord make me like You
 subtitle: Carol & Jimmy Owens
 seasons: [Lent]
+tags: [communion]
 ---
 
 **Lord make me like You   

@@ -1,5 +1,6 @@
 ---
 title: "I am the light"
+tags: [communion]
 ---
 
 I am the light, bringing You out of darkness,   

@@ -1,5 +1,6 @@
 ---
 title: "We see the troubles in our lives"
+tags: [communion]
 ---
 
 We see the troubles in our lives,   

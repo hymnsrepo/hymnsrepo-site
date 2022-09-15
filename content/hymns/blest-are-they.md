@@ -1,5 +1,6 @@
 ---
 title: "Blest are they"
+tags: [communion]
 ---
 
 Blest are they, the poor in spirit   

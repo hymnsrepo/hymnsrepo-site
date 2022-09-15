@@ -1,5 +1,6 @@
 ---
 title: "Our hearts were made for You, Lord"
+tags: [communion]
 ---
 
 **Our hearts were made for You, Lord,   

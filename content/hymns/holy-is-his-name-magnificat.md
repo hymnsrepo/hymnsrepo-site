@@ -1,6 +1,7 @@
 ---
 title: Holy is His Name
 subtitle: The Magnificat | John Michael Talbot
+tags: [communion, mary]
 ---
 
 1. My soul proclaims the greatness of the Lord,   

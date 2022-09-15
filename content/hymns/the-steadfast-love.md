@@ -1,5 +1,6 @@
 ---
 title: "The steadfast love"
+tags: [communion]
 ---
 
 **The steadfast love of the Lord never ceases.   

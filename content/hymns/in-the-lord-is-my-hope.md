@@ -1,6 +1,7 @@
 ---
 title: In the Lord, is my hope
 subtitle: J.A. Espinosa
+tags: [communion]
 ---
 
 **In the Lord, is my hope,   

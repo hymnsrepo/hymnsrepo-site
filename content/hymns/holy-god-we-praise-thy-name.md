@@ -1,5 +1,6 @@
 ---
 title: "Holy God, we praise Thy name"
+tags: [adoration]
 ---
 
 Holy God we praise Thy name,   

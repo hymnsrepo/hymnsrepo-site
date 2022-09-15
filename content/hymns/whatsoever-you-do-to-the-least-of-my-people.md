@@ -1,5 +1,6 @@
 ---
 title: "Whatsoever you do"
+tags: [communion]
 ---
 
 **Whatsoever you do to the least of my people   

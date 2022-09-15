@@ -1,6 +1,7 @@
 ---
 title: Jesus! My Lord, my God, my all
 subtitle: Fredrick V. Faber
+tags: [adoration]
 ---
 
 Jesus! my Lord, my God my all!   

@@ -1,6 +1,7 @@
 ---
 title: Hide me in the hollow of Your loving hand
 subtitle: Aniceto Nazareth
+tags: [communion]
 ---
 
 Hide me in the hollow of Your loving hand   

@@ -1,5 +1,6 @@
 ---
 title: "The Saviour is waiting"
+tags: [communion]
 ---
 
 The Saviour is waiting to enter your heart,   

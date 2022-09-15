@@ -1,5 +1,6 @@
 ---
 title: "Blessed are they who are poor in spirit"
+tags: [communion]
 ---
 
 Blessed are they who are poor in spirit,   

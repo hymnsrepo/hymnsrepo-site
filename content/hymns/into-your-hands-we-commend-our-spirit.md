@@ -1,6 +1,7 @@
 ---
 title: Into Your hands we commend our spirit
 subtitle: Ray Repp
+seasons: [Lent]
 ---
 
 **Into Your hands we commend our spirit O Lord,   

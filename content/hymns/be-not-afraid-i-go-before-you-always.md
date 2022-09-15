@@ -1,5 +1,6 @@
 ---
 title: "Be not afraid! I go before you always"
+tags: [communion]
 ---
 
 **Be not afraid! I go before you always   

@@ -1,6 +1,7 @@
 ---
 title: "Come back to me"
 seasons: [Lent]
+tags: [communion]
 ---
 
 Come back to me with all your heart   

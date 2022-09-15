@@ -1,6 +1,7 @@
 ---
 title: O let the Son of God enfold you
 subtitle: John Wimber
+tags: [communion]
 ---
 
 O let the Son of God enfold you with His Spirit and His love,  
