@@ -1,5 +1,6 @@
 ---
 title: "Ave Maria (As I kneel)"
+tags: [mary]
 ---
 
 As I kneel before you,  

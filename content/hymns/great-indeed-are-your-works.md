@@ -3,7 +3,7 @@ title: "Great indeed are Your works"
 ---
 
 **Great indeed are Your works, O Lord,   
-Now and everymore. (x2)**
+Now and evermore. (x2)**
 
 The universe, night and day,   
 Tells of all Your wonders.   

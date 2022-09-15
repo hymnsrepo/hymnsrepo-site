@@ -1,5 +1,6 @@
 ---
 title: "Mother dearest, mother fairest"
+tags: [mary]
 ---
 
 Mother dearest, Mother fairest,   

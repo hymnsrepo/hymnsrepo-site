@@ -1,6 +1,7 @@
 ---
 title: "Mother of God, plead with your Son"
 seasons: [Lent]
+tags: [mary]
 ---
 
 **Mother of God, plead with your Son,   

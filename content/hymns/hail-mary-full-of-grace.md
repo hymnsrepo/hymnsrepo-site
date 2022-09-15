@@ -1,6 +1,7 @@
 ---
 title: Hail Mary, full of grace
 subtitle: Aniceto Nazareth
+tags: [mary]
 ---
 
 **Hail Mary, full of grace and Mother of our God,   

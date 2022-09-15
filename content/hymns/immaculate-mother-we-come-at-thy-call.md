@@ -1,5 +1,6 @@
 ---
 title: Our Lady of Lourdes
+tags: [mary]
 ---
 
 Immaculate Mother, 

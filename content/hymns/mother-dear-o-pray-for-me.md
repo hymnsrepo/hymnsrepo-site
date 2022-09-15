@@ -1,5 +1,6 @@
 ---
 title: "Mother dear O pray for me"
+tags: [mary]
 ---
 
 Mother dear, O pray for me   
