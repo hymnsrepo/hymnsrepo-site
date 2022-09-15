@@ -1,6 +1,9 @@
 {
   "a-new-commandment": {
     "title": "A new commandment",
+    "tags": [
+      "communion"
+    ],
     "basename": "a-new-commandment"
   },
   "a-spotless-rose-is-blowing": {
@@ -55,6 +58,9 @@
   },
   "all-to-jesus-i-surrender": {
     "title": "All to Jesus I surrender",
+    "tags": [
+      "communion"
+    ],
     "basename": "all-to-jesus-i-surrender"
   },
   "all-you-children-of-peace": {
@@ -77,11 +83,17 @@
   },
   "as-i-kneel-before-you": {
     "title": "Ave Maria (As I kneel)",
+    "tags": [
+      "mary"
+    ],
     "basename": "as-i-kneel-before-you"
   },
   "as-the-deer": {
     "title": "As the deer",
     "subtitle": "Martin J. Nystrom",
+    "tags": [
+      "communion"
+    ],
     "basename": "as-the-deer"
   },
   "as-we-gather-may-your-spirit-work-within-us": {
@@ -98,6 +110,9 @@
   },
   "at-the-name-of-jesus": {
     "title": "At the name of Jesus",
+    "tags": [
+      "communion"
+    ],
     "basename": "at-the-name-of-jesus"
   },
   "at-this-time-of-giving": {
@@ -117,14 +132,23 @@
   },
   "be-not-afraid-i-go-before-you-always": {
     "title": "Be not afraid! I go before you always",
+    "tags": [
+      "communion"
+    ],
     "basename": "be-not-afraid-i-go-before-you-always"
   },
   "be-still-and-know": {
     "title": "Be still and know",
+    "tags": [
+      "communion"
+    ],
     "basename": "be-still-and-know"
   },
   "be-still-for-the-presence-of-the-lord": {
     "title": "Be still for the presence of the Lord",
+    "tags": [
+      "adoration"
+    ],
     "basename": "be-still-for-the-presence-of-the-lord"
   },
   "be-thou-my-vision": {
@@ -140,6 +164,9 @@
     "seasons": [
       "Advent"
     ],
+    "tags": [
+      "communion"
+    ],
     "basename": "bestir-thy-power"
   },
   "bind-us-together": {
@@ -148,6 +175,9 @@
   },
   "blessed-are-they-who-are-poor-in-spirit": {
     "title": "Blessed are they who are poor in spirit",
+    "tags": [
+      "communion"
+    ],
     "basename": "blessed-are-they-who-are-poor-in-spirit"
   },
   "blessed-assurance": {
@@ -156,6 +186,9 @@
   },
   "blest-are-they": {
     "title": "Blest are they",
+    "tags": [
+      "communion"
+    ],
     "basename": "blest-are-they"
   },
   "blest-are-you-lord": {
@@ -164,6 +197,9 @@
   },
   "bread-that-was-sown": {
     "title": "Bread that was sown",
+    "tags": [
+      "communion"
+    ],
     "basename": "bread-that-was-sown"
   },
   "cause-me-to-come": {
@@ -176,6 +212,9 @@
   },
   "christ-be-our-light": {
     "title": "Christ be our light",
+    "tags": [
+      "communion"
+    ],
     "basename": "christ-be-our-light"
   },
   "colours-of-day": {
@@ -187,6 +226,9 @@
     "seasons": [
       "Lent"
     ],
+    "tags": [
+      "communion"
+    ],
     "basename": "come-back-to-me"
   },
   "come-come-emmanuel": {
@@ -194,6 +236,9 @@
     "subtitle": "Steve Angrisano",
     "seasons": [
       "Advent"
+    ],
+    "tags": [
+      "communion"
     ],
     "basename": "come-come-emmanuel"
   },
@@ -241,10 +286,16 @@
   },
   "daily-daily-sing-to-mary": {
     "title": "Daily, daily sing to Mary",
+    "tags": [
+      "mary"
+    ],
     "basename": "daily-daily-sing-to-mary"
   },
   "deep-calls-to-deep": {
     "title": "Deep calls to deep",
+    "tags": [
+      "communion"
+    ],
     "basename": "deep-calls-to-deep"
   },
   "ding-dong-merrily-on-high": {
@@ -254,6 +305,9 @@
   },
   "do-this-in-memory-of-me": {
     "title": "Do this in memory of me",
+    "tags": [
+      "communion"
+    ],
     "basename": "do-this-in-memory-of-me"
   },
   "enter-his-gates": {
@@ -267,6 +321,9 @@
   "father-we-adore-you": {
     "title": "Father we adore You",
     "subtitle": "Terrye Coelho",
+    "tags": [
+      "adoration"
+    ],
     "basename": "father-we-adore-you"
   },
   "find-us-ready": {
@@ -340,6 +397,9 @@
   "hail-mary-full-of-grace": {
     "title": "Hail Mary, full of grace",
     "subtitle": "Aniceto Nazareth",
+    "tags": [
+      "mary"
+    ],
     "basename": "hail-mary-full-of-grace"
   },
   "hail-queen-of-heaven": {
@@ -353,8 +413,8 @@
   "hail-to-thee-true-body-sprung": {
     "title": "Hail to thee, true body sprung",
     "subtitle": "St. Thomas Aquinas",
-    "seasons": [
-      "Lent"
+    "tags": [
+      "adoration"
     ],
     "basename": "hail-to-thee-true-body-sprung"
   },
@@ -364,11 +424,17 @@
     "seasons": [
       "Easter"
     ],
+    "tags": [
+      "communion"
+    ],
     "basename": "he-is-lord"
   },
   "hide-me-in-the-hollow-of-your-loving-hand": {
     "title": "Hide me in the hollow of Your loving hand",
     "subtitle": "Aniceto Nazareth",
+    "tags": [
+      "communion"
+    ],
     "basename": "hide-me-in-the-hollow-of-your-loving-hand"
   },
   "his-name-is-higher": {
@@ -377,6 +443,9 @@
   },
   "holy-god-we-praise-thy-name": {
     "title": "Holy God, we praise Thy name",
+    "tags": [
+      "adoration"
+    ],
     "basename": "holy-god-we-praise-thy-name"
   },
   "holy-holy-holy-lord-god-almighty": {
@@ -386,10 +455,17 @@
   "holy-is-his-name-magnificat": {
     "title": "Holy is His Name",
     "subtitle": "The Magnificat | John Michael Talbot",
+    "tags": [
+      "communion",
+      "mary"
+    ],
     "basename": "holy-is-his-name-magnificat"
   },
   "holy-virgin": {
     "title": "Holy Virgin by God's decree",
+    "tags": [
+      "mary"
+    ],
     "basename": "holy-virgin"
   },
   "how-i-rejoiced-when-i-heard-them-say": {
@@ -403,15 +479,27 @@
   },
   "i-am-the-bread-of-life": {
     "title": "I am the bread of life",
+    "tags": [
+      "communion"
+    ],
     "basename": "i-am-the-bread-of-life"
   },
   "i-am-the-light": {
     "title": "I am the light",
+    "tags": [
+      "communion"
+    ],
     "basename": "i-am-the-light"
   },
   "i-dare-not-sing": {
     "title": "I dare not sing of Jesus' pain and anguish",
     "subtitle": "Aniceto Nazareth",
+    "seasons": [
+      "Lent"
+    ],
+    "tags": [
+      "communion"
+    ],
     "basename": "i-dare-not-sing"
   },
   "i-give-my-hands": {
@@ -454,6 +542,9 @@
   },
   "immaculate-mother-we-come-at-thy-call": {
     "title": "Our Lady of Lourdes",
+    "tags": [
+      "mary"
+    ],
     "basename": "immaculate-mother-we-come-at-thy-call"
   },
   "in-bread-we-bring-you-lord": {
@@ -476,11 +567,17 @@
   "in-the-lord-is-my-hope": {
     "title": "In the Lord, is my hope",
     "subtitle": "J.A. Espinosa",
+    "tags": [
+      "communion"
+    ],
     "basename": "in-the-lord-is-my-hope"
   },
   "into-your-hands-we-commend-our-spirit": {
     "title": "Into Your hands we commend our spirit",
     "subtitle": "Ray Repp",
+    "seasons": [
+      "Lent"
+    ],
     "basename": "into-your-hands-we-commend-our-spirit"
   },
   "it-came-upon-the-midnight-clear": {
@@ -510,6 +607,9 @@
     "seasons": [
       "Lent"
     ],
+    "tags": [
+      "communion"
+    ],
     "basename": "jesus-always-loved-his-own"
   },
   "jesus-come-jesus-come": {
@@ -528,15 +628,24 @@
   "jesus-my-lord-my-god-my-all": {
     "title": "Jesus! My Lord, my God, my all",
     "subtitle": "Fredrick V. Faber",
+    "tags": [
+      "adoration"
+    ],
     "basename": "jesus-my-lord-my-god-my-all"
   },
   "jesus-you-are-my-salvation": {
     "title": "Jesus, You are my salvation",
+    "tags": [
+      "communion"
+    ],
     "basename": "jesus-you-are-my-salvation"
   },
   "jesus-youre-the-sweetest-name-of-all": {
     "title": "Jesus you're the sweetest name of all",
     "subtitle": "Tommy Coomes",
+    "tags": [
+      "communion"
+    ],
     "basename": "jesus-youre-the-sweetest-name-of-all"
   },
   "just-like-a-child": {
@@ -547,6 +656,9 @@
   "just-to-fix-our-eyes-on-jesus": {
     "title": "Just to fix our eyes on Jesus",
     "subtitle": "Aniceto Nazareth",
+    "tags": [
+      "communion"
+    ],
     "basename": "just-to-fix-our-eyes-on-jesus"
   },
   "lay-your-hands": {
@@ -557,20 +669,32 @@
   "let-it-be-done": {
     "title": "Let it be done",
     "subtitle": "Chris Muglia",
+    "seasons": [
+      "Christmas"
+    ],
     "basename": "let-it-be-done"
   },
   "let-there-be-glory-and-honour-to-mary": {
     "title": "Let there be glory and honour to Mary",
     "subtitle": "Aniceto Nazareth",
+    "tags": [
+      "mary"
+    ],
     "basename": "let-there-be-glory-and-honour-to-mary"
   },
   "let-us-bow-in-adoration": {
     "title": "Let us bow in adoration",
+    "tags": [
+      "adoration"
+    ],
     "basename": "let-us-bow-in-adoration"
   },
   "lets-sing-to-our-mother": {
     "title": "Let's sing to our mother",
     "subtitle": "Sr. Marie Lydia Pereira F.C.",
+    "tags": [
+      "mary"
+    ],
     "basename": "lets-sing-to-our-mother"
   },
   "listen-to-your-people": {
@@ -587,6 +711,9 @@
     "seasons": [
       "Lent"
     ],
+    "tags": [
+      "communion"
+    ],
     "basename": "lord-make-me-like-you"
   },
   "lord-you-are-my-everything": {
@@ -597,11 +724,17 @@
   "lord-you-have-touched-my-heart": {
     "title": "Lord, You have touched my heart",
     "subtitle": "Aniceto Nazareth",
+    "tags": [
+      "communion"
+    ],
     "basename": "lord-you-have-touched-my-heart"
   },
   "lose-yourself-in-me": {
     "title": "Lose yourself in me",
     "subtitle": "Rev. Carey landry (verse 2 & 3 by Aniceto Nazareth)",
+    "tags": [
+      "communion"
+    ],
     "basename": "lose-yourself-in-me"
   },
   "love-has-captured-the-night": {
@@ -615,11 +748,17 @@
   "make-me-a-servant": {
     "title": "Make me a servant",
     "subtitle": "Kelly Willard",
+    "tags": [
+      "communion"
+    ],
     "basename": "make-me-a-servant"
   },
   "make-me-an-instrument": {
     "title": "Make me an instrument",
     "subtitle": "St. Francis of Assisi",
+    "tags": [
+      "communion"
+    ],
     "basename": "make-me-an-instrument"
   },
   "maranatha-maranatha-maranatha": {
@@ -633,20 +772,32 @@
   "mary-from-thy-sacred-image": {
     "title": "Mary from thy sacred image",
     "subtitle": "Hymn to Mother of Perpetual Succor",
+    "tags": [
+      "mary"
+    ],
     "basename": "mary-from-thy-sacred-image"
   },
   "mother-dear-o-pray-for-me": {
     "title": "Mother dear O pray for me",
+    "tags": [
+      "mary"
+    ],
     "basename": "mother-dear-o-pray-for-me"
   },
   "mother-dearest-mother-fairest": {
     "title": "Mother dearest, mother fairest",
+    "tags": [
+      "mary"
+    ],
     "basename": "mother-dearest-mother-fairest"
   },
   "mother-of-god-plead-with-your-son": {
     "title": "Mother of God, plead with your Son",
     "seasons": [
       "Lent"
+    ],
+    "tags": [
+      "mary"
     ],
     "basename": "mother-of-god-plead-with-your-son"
   },
@@ -665,6 +816,9 @@
   "my-soul-rejoices": {
     "title": "My soul rejoices",
     "subtitle": "Jackie François",
+    "tags": [
+      "mary"
+    ],
     "basename": "my-soul-rejoices"
   },
   "nearer-my-god-to-thee": {
@@ -675,6 +829,9 @@
   "no-one-can-give-to-me-that-peace": {
     "title": "No one can give to me that peace",
     "subtitle": "Douglas Rowe SJ",
+    "tags": [
+      "communion"
+    ],
     "basename": "no-one-can-give-to-me-that-peace"
   },
   "o-cross-erected": {
@@ -687,6 +844,9 @@
   "o-let-the-son-of-god-enfold-you": {
     "title": "O let the Son of God enfold you",
     "subtitle": "John Wimber",
+    "tags": [
+      "communion"
+    ],
     "basename": "o-let-the-son-of-god-enfold-you"
   },
   "o-lord-furnace-of-love": {
@@ -700,10 +860,17 @@
     "seasons": [
       "Advent"
     ],
+    "tags": [
+      "mary",
+      "communion"
+    ],
     "basename": "o-maiden-will-you-be"
   },
   "o-sacrament-most-holy": {
     "title": "O Sacrament Most Holy",
+    "tags": [
+      "adoration"
+    ],
     "basename": "o-sacrament-most-holy"
   },
   "on-a-hill-far-away": {
@@ -723,10 +890,16 @@
   },
   "our-hearts-were-made-for-you-lord": {
     "title": "Our hearts were made for You, Lord",
+    "tags": [
+      "communion"
+    ],
     "basename": "our-hearts-were-made-for-you-lord"
   },
   "praise-him-praise-him": {
     "title": "Praise Him, praise Him",
+    "tags": [
+      "adoration"
+    ],
     "basename": "praise-him-praise-him"
   },
   "ready-the-way": {
@@ -764,6 +937,9 @@
   },
   "shepherd-of-my-soul": {
     "title": "Shepherd of my soul",
+    "tags": [
+      "communion"
+    ],
     "basename": "shepherd-of-my-soul"
   },
   "sing-life-sing-love-sing-jesus": {
@@ -773,10 +949,16 @@
   "sing-my-tongue": {
     "title": "Sing my tongue the Saviour's glory",
     "subtitle": "St. Thomas Aquinas",
+    "tags": [
+      "adoration"
+    ],
     "basename": "sing-my-tongue"
   },
   "sons-of-god-hear-his-holy-word": {
     "title": "Sons of God, hear His holy Word",
+    "tags": [
+      "communion"
+    ],
     "basename": "sons-of-god-hear-his-holy-word"
   },
   "soul-of-my-saviour": {
@@ -797,6 +979,9 @@
   },
   "sweet-sacrament-divine": {
     "title": "Sweet Sacrament divine",
+    "tags": [
+      "adoration"
+    ],
     "basename": "sweet-sacrament-divine"
   },
   "take-our-bread": {
@@ -829,6 +1014,9 @@
   },
   "the-lord-is-my-shepherd": {
     "title": "The Lord is my shepherd",
+    "tags": [
+      "communion"
+    ],
     "basename": "the-lord-is-my-shepherd"
   },
   "the-more-we-hear": {
@@ -837,10 +1025,16 @@
   },
   "the-saviour-is-waiting": {
     "title": "The Saviour is waiting",
+    "tags": [
+      "communion"
+    ],
     "basename": "the-saviour-is-waiting"
   },
   "the-steadfast-love": {
     "title": "The steadfast love",
+    "tags": [
+      "communion"
+    ],
     "basename": "the-steadfast-love"
   },
   "then-sings-my-soul": {
@@ -880,6 +1074,9 @@
   },
   "we-see-the-troubles-in-our-lives": {
     "title": "We see the troubles in our lives",
+    "tags": [
+      "communion"
+    ],
     "basename": "we-see-the-troubles-in-our-lives"
   },
   "we-want-to-give-you-thanks-lord": {
@@ -896,6 +1093,9 @@
   },
   "whatsoever-you-do-to-the-least-of-my-people": {
     "title": "Whatsoever you do",
+    "tags": [
+      "communion"
+    ],
     "basename": "whatsoever-you-do-to-the-least-of-my-people"
   }
 }
