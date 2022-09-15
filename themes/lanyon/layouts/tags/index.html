@@ -1,0 +1,21 @@
+{{ define "content" }}
+{{ $tag := .Params.tag }}
+
+<div class="page">
+    <h1 class="page-title">{{ .Title }}</h1>
+
+    {{ .Content }}
+
+    <ul>
+    {{range $name, $taxonomy := .Site.Taxonomies.tags}}
+        {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+            <li class="hymn-list-item">
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </li>
+        {{end}}
+    {{end}}
+    </ul>
+
+</div>
+
+{{end}}

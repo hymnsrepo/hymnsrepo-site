@@ -2,6 +2,17 @@
     <div class="page">
     <h1 class="page-title">{{ .Title }}</h1>
     <span class="post-subtitle">{{ .Params.subtitle }}</span>
-        {{ .Content }}
+
+    {{ .Content }}
+
+    <br />
+    {{ range (.GetTerms "tags") }}
+        {{ with $.Site.GetPage (printf "/tags/%s" .Title) }}
+            <a class="tag" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+        {{end}}
+    {{ end }}
+    <br />
+        
+
     </div>
 {{ end }}

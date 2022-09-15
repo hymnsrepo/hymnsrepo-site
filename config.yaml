@@ -13,40 +13,46 @@ params:
   cachebuster:  v0
   github:       https://github.com/hymnsrepo/hymnsrepo-site
 
+taxonomies:
+  tag: tags
+  season: seasons
+
 menu:
   main:
   - identifier: hymns
     title: Hymn Index
     pageref: /
     weight: 1
+  - identifier: tags
+    title: Tags
+    pageref: /tags/
+    weight: 2
   - identifier: advent
     title: Advent
     pageref: /seasons/advent
-    weight: 2
+    weight: 3
   - identifier: christmas
     title: Christmas
     pageref: /seasons/christmas
-    weight: 3
+    weight: 4
   - identifier: lent
     title: Lent
     pageref: /seasons/lent
-    weight: 4
+    weight: 5
   - identifier: easter
     title: Easter
     pageref: /seasons/easter
-    weight: 5
+    weight: 6
   - identifier: order-of-mass
     title: The Order of Mass
     pageref: /order-of-mass
-    weight: 6
+    weight: 7
   - identifier: about
     title: About
     pageref: /about
-    weight: 7
+    weight: 8
 
 disableKinds:
-  - taxonomy
-  - taxonomyTerm
   - RSS
 
 sitemap:
