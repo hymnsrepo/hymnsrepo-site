@@ -1,6 +1,7 @@
 ---
 title: "Sing my tongue the Saviour's glory"
 subtitle: "St. Thomas Aquinas"
+tags: [adoration]
 ---
 
 Sing, my tongue, the Saviour's glory,   

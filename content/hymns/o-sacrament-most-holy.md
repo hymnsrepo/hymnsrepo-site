@@ -1,5 +1,6 @@
 ---
 title: "O Sacrament Most Holy"
+tags: [adoration]
 ---
 
 O Sacrament Most Holy   

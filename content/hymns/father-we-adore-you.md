@@ -1,6 +1,7 @@
 ---
 title: Father we adore You
 subtitle: Terrye Coelho
+tags: [adoration]
 ---
 
 Father we adore You   
