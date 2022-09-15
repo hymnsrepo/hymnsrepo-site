@@ -1,5 +1,6 @@
 ---
 title: "A new commandment"
+tags: [communion]
 ---
 
 **A new commandment I give unto you   

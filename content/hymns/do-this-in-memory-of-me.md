@@ -1,5 +1,6 @@
 ---
 title: "Do this in memory of me"
+tags: [communion]
 ---
 
 I am the bread of life   

@@ -1,6 +1,7 @@
 ---
 title: "Bestir Thy power"
 seasons: [Advent]
+tags: [communion]
 ---
 
 **Bestir Thy power and come, Lord,   

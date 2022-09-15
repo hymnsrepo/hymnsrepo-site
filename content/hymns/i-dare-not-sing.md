@@ -1,6 +1,8 @@
 ---
 title: I dare not sing of Jesus' pain and anguish
 subtitle: Aniceto Nazareth
+seasons: [Lent]
+tags: [communion]
 ---
 
 I dare not sing of Jesus' pain and anguish,   

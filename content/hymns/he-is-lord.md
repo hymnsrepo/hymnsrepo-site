@@ -2,6 +2,7 @@
 title: He is Lord
 subtitle: Aniceto Nazareth
 seasons: [Easter]
+tags: [communion]
 ---
 
 **He is Lord, He is Lord,   

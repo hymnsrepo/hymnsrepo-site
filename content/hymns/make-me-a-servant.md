@@ -1,6 +1,7 @@
 ---
 title: Make me a servant
 subtitle: Kelly Willard
+tags: [communion]
 ---
 
 **Make me a servant, humble and meek.   

@@ -1,5 +1,6 @@
 ---
 title: "Jesus, You are my salvation"
+tags: [communion]
 ---
 
 **Jesus, You are my salvation,   

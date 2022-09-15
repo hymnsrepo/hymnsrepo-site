@@ -1,6 +1,7 @@
 ---
 title: Just to fix our eyes on Jesus
 subtitle: Aniceto Nazareth
+tags: [communion]
 ---
 
 Just to fix our eyes on Jesus   
@@ -14,7 +15,7 @@ Here, Lord, I come to do your will.**
 
 Just to follow in his footsteps   
 And to live according to his ways.   
-Oh! to be the salt to savour;   
+Oh! to be the salt to saviour;   
 And the light in darkness all my days.
 
 Just to be like Christ, the sower,   

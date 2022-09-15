@@ -1,6 +1,7 @@
 ---
 title: Lord, You have touched my heart
 subtitle: Aniceto Nazareth
+tags: [communion]
 ---
 
 _Antiphons_

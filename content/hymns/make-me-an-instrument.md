@@ -1,6 +1,7 @@
 ---
 title: Make me an instrument
 subtitle: St. Francis of Assisi
+tags: [communion]
 ---
 
 Make me an instrument of your peace:   

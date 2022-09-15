@@ -1,5 +1,6 @@
 ---
 title: "At the name of Jesus"
+tags: [communion]
 ---
 
 **At the name of Jesus, every knee shall bow;   

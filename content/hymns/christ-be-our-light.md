@@ -1,5 +1,6 @@
 ---
 title: "Christ be our light"
+tags: [communion]
 ---
 
 Longing for light, we wait in darkness.   

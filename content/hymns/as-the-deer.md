@@ -1,6 +1,7 @@
 ---
 title: "As the deer"
 subtitle: "Martin J. Nystrom"
+tags: [communion]
 ---
 
 As the deer that pants for water so my soul longs after You  

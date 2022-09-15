@@ -1,5 +1,6 @@
 ---
 title: "Be still and know"
+tags: [communion]
 ---
 
 1. Be still and know that I am God (x3)

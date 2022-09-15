@@ -1,5 +1,6 @@
 ---
 title: "All to Jesus I surrender"
+tags: [communion]
 ---
 
 All to Jesus I surrender,  

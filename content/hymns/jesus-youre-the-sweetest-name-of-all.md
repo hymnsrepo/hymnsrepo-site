@@ -1,6 +1,7 @@
 ---
 title: Jesus you're the sweetest name of all
 subtitle: Tommy Coomes
+tags: [communion]
 ---
 
 Jesus you're the sweetest name of all,   

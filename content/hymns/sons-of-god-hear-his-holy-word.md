@@ -1,5 +1,6 @@
 ---
 title: Sons of God, hear His holy Word
+tags: [communion]
 ---
 
 **Sons of God, hear His holy Word   
