@@ -1,5 +1,6 @@
 ---
 title: "Daily, daily sing to Mary"
+tags: [mary]
 ---
 
 Daily, daily sing to Mary,   

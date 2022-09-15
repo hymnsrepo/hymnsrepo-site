@@ -1,6 +1,7 @@
 ---
 title: Let there be glory and honour to Mary
 subtitle: Aniceto Nazareth
+tags: [mary]
 ---
 
 _**Let there be glory and honour and praises,   

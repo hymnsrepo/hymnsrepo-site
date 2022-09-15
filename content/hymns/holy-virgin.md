@@ -1,5 +1,6 @@
 ---
 title: "Holy Virgin by God's decree"
+tags: [mary]
 ---
 
 Holy Virgin, by God's decree,  

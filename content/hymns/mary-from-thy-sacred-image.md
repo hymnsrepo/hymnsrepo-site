@@ -1,6 +1,7 @@
 ---
 title: "Mary from thy sacred image"
 subtitle: "Hymn to Mother of Perpetual Succor" 
+tags: [mary]
 ---
 
 Mary from thy sacred image,   

@@ -1,6 +1,7 @@
 ---
 title: "My soul rejoices"
 subtitle: "Jackie François"
+tags: [mary]
 ---
 
 **My soul rejoices, my soul rejoices in my God.  

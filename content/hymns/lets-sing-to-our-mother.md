@@ -1,6 +1,7 @@
 ---
 title: Let's sing to our mother
 subtitle: Sr. Marie Lydia Pereira F.C.
+tags: [mary]
 ---
 
 **Let's sing to our mother,   

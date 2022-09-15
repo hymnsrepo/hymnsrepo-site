@@ -2,6 +2,7 @@
 title: O maiden will you be
 subtitle: L. Pereira
 seasons: [Advent]
+tags: [mary]
 ---
 
 O maiden will you be the mother of the Saviour?   
