@@ -1010,6 +1010,9 @@
   },
   "the-cup-of-blessing-that-we-raise": {
     "title": "The cup of blessing that we raise",
+    "seasons": [
+      "Easter"
+    ],
     "basename": "the-cup-of-blessing-that-we-raise"
   },
   "the-lord-is-my-shepherd": {
