@@ -491,6 +491,10 @@
     ],
     "basename": "i-am-the-light"
   },
+  "i-can-feel-your-presense": {
+    "title": "I can feel your presence",
+    "basename": "i-can-feel-your-presense"
+  },
   "i-dare-not-sing": {
     "title": "I dare not sing of Jesus' pain and anguish",
     "subtitle": "Aniceto Nazareth",
@@ -879,6 +883,13 @@
       "Lent"
     ],
     "basename": "on-a-hill-far-away"
+  },
+  "on-this-day-o-beautiful-mother": {
+    "title": "On this day, O beautiful mother",
+    "tags": [
+      "mary"
+    ],
+    "basename": "on-this-day-o-beautiful-mother"
   },
   "once-in-royal-davids-city": {
     "title": "Once in royal David's city",
