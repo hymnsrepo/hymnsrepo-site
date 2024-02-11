@@ -56,6 +56,13 @@
     "subtitle": "Chris Tomlin",
     "basename": "all-the-way-my-saviour-leads-me"
   },
+  "all-things-are-thine": {
+    "title": "All things are thine",
+    "tags": [
+      "offertory"
+    ],
+    "basename": "all-things-are-thine"
+  },
   "all-to-jesus-i-surrender": {
     "title": "All to Jesus I surrender",
     "tags": [
@@ -159,6 +166,13 @@
     "title": "Beginning today",
     "basename": "beginning-today"
   },
+  "behold-the-bread-o-lord": {
+    "title": "Behold the bread, O Lord",
+    "tags": [
+      "offertory"
+    ],
+    "basename": "behold-the-bread-o-lord"
+  },
   "bestir-thy-power": {
     "title": "Bestir Thy power",
     "seasons": [
@@ -193,7 +207,17 @@
   },
   "blest-are-you-lord": {
     "title": "Blest are You, Lord",
+    "tags": [
+      "offertory"
+    ],
     "basename": "blest-are-you-lord"
+  },
+  "bread-and-wine-we-bring": {
+    "title": "Bread and wine we bring to you",
+    "tags": [
+      "offertory"
+    ],
+    "basename": "bread-and-wine-we-bring"
   },
   "bread-that-was-sown": {
     "title": "Bread that was sown",
@@ -262,6 +286,13 @@
       "Christmas"
     ],
     "basename": "come-thou-long-expected-jesus"
+  },
+  "come-to-the-lord": {
+    "title": "Come to the Lord",
+    "tags": [
+      "offertory"
+    ],
+    "basename": "come-to-the-lord"
   },
   "come-to-us": {
     "title": "Come to us",
@@ -477,6 +508,13 @@
     "title": "How lovely is Your dwelling place, O Lord!",
     "basename": "how-lovely-is-your-dwelling-place-o-lord"
   },
+  "humbly-we-come": {
+    "title": "Humbly we come before your face",
+    "tags": [
+      "offertory"
+    ],
+    "basename": "humbly-we-come"
+  },
   "i-am-the-bread-of-life": {
     "title": "I am the bread of life",
     "tags": [
@@ -554,6 +592,9 @@
   "in-bread-we-bring-you-lord": {
     "title": "In bread we bring You Lord",
     "subtitle": "Kevin Nichols",
+    "tags": [
+      "offertory"
+    ],
     "basename": "in-bread-we-bring-you-lord"
   },
   "in-his-time": {
@@ -701,6 +742,13 @@
     ],
     "basename": "lets-sing-to-our-mother"
   },
+  "lift-up-your-hands": {
+    "title": "Lift up your hands",
+    "tags": [
+      "offertory"
+    ],
+    "basename": "lift-up-your-hands"
+  },
   "listen-to-your-people": {
     "title": "Listen to Your people",
     "basename": "listen-to-your-people"
@@ -708,6 +756,13 @@
   "living-waters-flow-on": {
     "title": "Living waters flow on",
     "basename": "living-waters-flow-on"
+  },
+  "lord-accept-this-bread-and-wine": {
+    "title": "Lord, accept this bread and wine",
+    "tags": [
+      "offertory"
+    ],
+    "basename": "lord-accept-this-bread-and-wine"
   },
   "lord-make-me-like-you": {
     "title": "Lord make me like You",
@@ -891,6 +946,13 @@
     ],
     "basename": "on-this-day-o-beautiful-mother"
   },
+  "on-this-day-of-joy": {
+    "title": "On this day of joy",
+    "tags": [
+      "offertory"
+    ],
+    "basename": "on-this-day-of-joy"
+  },
   "once-in-royal-davids-city": {
     "title": "Once in royal David's city",
     "subtitle": "Cecil Frances Alexander",
@@ -997,7 +1059,17 @@
   },
   "take-our-bread": {
     "title": "Take our bread",
+    "tags": [
+      "offertory"
+    ],
     "basename": "take-our-bread"
+  },
+  "take-thou-the-offering": {
+    "title": "Take thou the offering",
+    "tags": [
+      "offertory"
+    ],
+    "basename": "take-thou-the-offering"
   },
   "thank-you-lord-for-all-youve-done": {
     "title": "Thank You, Lord, for all You've done",
@@ -1073,6 +1145,14 @@
   "though-the-mountains-may-fall": {
     "title": "Though the mountains may fall",
     "basename": "though-the-mountains-may-fall"
+  },
+  "united-in-one-body": {
+    "title": "United in one body",
+    "subtitle": "St. Ignatius of Antioch",
+    "tags": [
+      "offertory"
+    ],
+    "basename": "united-in-one-body"
   },
   "walk-with-me-o-my-lord": {
     "title": "Walk with me O my Lord",
