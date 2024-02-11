@@ -1,5 +1,6 @@
 ---
 title: "Take our bread"
+tags: [offertory]
 ---
 
 **Take our bread, we ask you, take our hearts,   
