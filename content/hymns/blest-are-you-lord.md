@@ -1,5 +1,6 @@
 ---
 title: "Blest are You, Lord"
+tags: [offertory]
 ---
 
 Blest are You, Lord God of all creation   
