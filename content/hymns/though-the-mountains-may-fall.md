@@ -1,5 +1,6 @@
 ---
-title: "Though the mountains may fall"
+title: Though the mountains may fall
+tags: [recessional]
 ---
 
 **Though the mountains may fall   

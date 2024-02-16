@@ -1,6 +1,7 @@
 ---
 title: "I've wandered far away from God"
 seasons: [Lent]
+tags: [recessional]
 ---
 
 I've wandered far away from God,   
