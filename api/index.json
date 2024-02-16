@@ -35,6 +35,16 @@
     "subtitle": "Traditional English 15th Century",
     "basename": "adam-lay-ybounden"
   },
+  "all-i-need-is-love": {
+    "title": "All I need is love",
+    "seasons": [
+      "Lent"
+    ],
+    "tags": [
+      "communion"
+    ],
+    "basename": "all-i-need-is-love"
+  },
   "all-over-the-world": {
     "title": "All over the world",
     "basename": "all-over-the-world"
@@ -645,6 +655,9 @@
     "seasons": [
       "Lent"
     ],
+    "tags": [
+      "recessional"
+    ],
     "basename": "ive-wandered-far-away-from-god"
   },
   "jesus-always-loved-his-own": {
@@ -836,6 +849,16 @@
     ],
     "basename": "mary-from-thy-sacred-image"
   },
+  "mercy-lord-we-have-sinned": {
+    "title": "Mercy, Lord we have sinned",
+    "seasons": [
+      "Lent"
+    ],
+    "tags": [
+      "communion"
+    ],
+    "basename": "mercy-lord-we-have-sinned"
+  },
   "mother-dear-o-pray-for-me": {
     "title": "Mother dear O pray for me",
     "tags": [
@@ -856,7 +879,8 @@
       "Lent"
     ],
     "tags": [
-      "mary"
+      "mary",
+      "recessional"
     ],
     "basename": "mother-of-god-plead-with-your-son"
   },
@@ -1027,6 +1051,16 @@
     ],
     "basename": "sing-my-tongue"
   },
+  "son-of-david-have-pity-on-me": {
+    "title": "Son of David, have pity on me",
+    "seasons": [
+      "Lent"
+    ],
+    "tags": [
+      "communion"
+    ],
+    "basename": "son-of-david-have-pity-on-me"
+  },
   "sons-of-god-hear-his-holy-word": {
     "title": "Sons of God, hear His holy Word",
     "tags": [
@@ -1105,9 +1139,27 @@
     ],
     "basename": "the-lord-is-my-shepherd"
   },
+  "the-lord-is-near": {
+    "title": "The Lord is near",
+    "seasons": [
+      "Lent"
+    ],
+    "tags": [
+      "communion"
+    ],
+    "basename": "the-lord-is-near"
+  },
   "the-more-we-hear": {
     "title": "The more we hear",
     "basename": "the-more-we-hear"
+  },
+  "the-reproaches": {
+    "title": "The reproaches",
+    "subtitle": "Veneration of the Cross",
+    "seasons": [
+      "Lent"
+    ],
+    "basename": "the-reproaches"
   },
   "the-saviour-is-waiting": {
     "title": "The Saviour is waiting",
@@ -1144,6 +1196,9 @@
   },
   "though-the-mountains-may-fall": {
     "title": "Though the mountains may fall",
+    "tags": [
+      "recessional"
+    ],
     "basename": "though-the-mountains-may-fall"
   },
   "united-in-one-body": {
@@ -1156,6 +1211,12 @@
   },
   "walk-with-me-o-my-lord": {
     "title": "Walk with me O my Lord",
+    "seasons": [
+      "Lent"
+    ],
+    "tags": [
+      "recessional"
+    ],
     "basename": "walk-with-me-o-my-lord"
   },
   "water-water-and-the-spirit": {
@@ -1187,6 +1248,16 @@
     "title": "We want to give You thanks, Lord",
     "basename": "we-want-to-give-you-thanks-lord"
   },
+  "what-does-it-profit-a-man": {
+    "title": "What does it profit a man?",
+    "seasons": [
+      "Lent"
+    ],
+    "tags": [
+      "communion"
+    ],
+    "basename": "what-does-it-profit-a-man"
+  },
   "what-sweeter-music-can-we-bring": {
     "title": "What sweeter music can we bring?",
     "subtitle": "Robert Herrick",
@@ -1201,5 +1272,35 @@
       "communion"
     ],
     "basename": "whatsoever-you-do-to-the-least-of-my-people"
+  },
+  "when-the-sun-has-set": {
+    "title": "When the sun has set",
+    "seasons": [
+      "Lent"
+    ],
+    "tags": [
+      "recessional"
+    ],
+    "basename": "when-the-sun-has-set"
+  },
+  "whom-do-you-seek": {
+    "title": "Whom do you seek?",
+    "seasons": [
+      "Lent"
+    ],
+    "tags": [
+      "communion"
+    ],
+    "basename": "whom-do-you-seek"
+  },
+  "yes-i-shall-arise": {
+    "title": "Yes, I shall arise",
+    "seasons": [
+      "Lent"
+    ],
+    "tags": [
+      "communion"
+    ],
+    "basename": "yes-i-shall-arise"
   }
 }
