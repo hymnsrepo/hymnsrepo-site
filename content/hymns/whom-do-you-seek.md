@@ -8,7 +8,7 @@ tags: [communion]
 Whom do you seek? Why do you weep?**
 
 1. I seek the one who brings peace to my people,
-   He whole gentleness touches my heart.
+   He whose gentleness touches my heart.
    He speaks still in the depths of my being
    How I pray that we never shall part!
 1. I seek the one who shows love for all nations
