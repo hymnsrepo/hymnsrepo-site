@@ -14,7 +14,7 @@ Take all we have, make them thine**
 
 We offer You, O Lord above,   
 Our pain and fear, our joy and love,   
-We place them on You altar Lord, today.   
+We place them on Your altar Lord, today.   
 Make us faithful, make us true,   
 Give us hope and courage too,   
 Sanctify our lives, O Lord we pray.
