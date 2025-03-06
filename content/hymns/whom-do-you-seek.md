@@ -4,7 +4,7 @@ seasons: [Lent]
 tags: [communion]
 ---
 
-**Whom do you seek? Whom are you looking for?
+**Whom do you seek? Who are you looking for?
 Whom do you seek? Why do you weep?**
 
 1. I seek the one who brings peace to my people,
