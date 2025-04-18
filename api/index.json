@@ -87,6 +87,18 @@
     ],
     "basename": "all-you-children-of-peace"
   },
+  "alma-redemptoris-mater": {
+    "title": "Alma Redemptoris Mater",
+    "subtitle": "Marian Antiphon (Traditional)",
+    "tags": [
+      "mary"
+    ],
+    "seasons": [
+      "Advent",
+      "Christmas"
+    ],
+    "basename": "alma-redemptoris-mater"
+  },
   "amazing-grace": {
     "title": "Amazing grace",
     "basename": "amazing-grace"
@@ -135,6 +147,17 @@
   "at-this-time-of-giving": {
     "title": "At this time of giving",
     "basename": "at-this-time-of-giving"
+  },
+  "ave-regina-caelorum": {
+    "title": "Ave, Regina caelorum",
+    "subtitle": "Marian Antiphon (Traditional)",
+    "tags": [
+      "mary"
+    ],
+    "seasons": [
+      "Lent"
+    ],
+    "basename": "ave-regina-caelorum"
   },
   "away-in-a-manger": {
     "title": "Away in a manager",
@@ -1017,8 +1040,12 @@
   },
   "regina-caeli-laetare": {
     "title": "Regina Caeli, Laetare",
+    "subtitle": "Marian Antiphon (Traditional)",
     "tags": [
       "mary"
+    ],
+    "seasons": [
+      "Easter"
     ],
     "basename": "regina-caeli-laetare"
   },
@@ -1042,6 +1069,7 @@
   },
   "salve-regina": {
     "title": "Salve Regina",
+    "subtitle": "Marian Antiphon (Traditional)",
     "tags": [
       "mary"
     ],
