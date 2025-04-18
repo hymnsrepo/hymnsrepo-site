@@ -1,6 +1,8 @@
 ---
 title: Regina Caeli, Laetare
+subtitle: Marian Antiphon (Traditional)
 tags: [mary]
+seasons: [Easter]
 ---
 
 
