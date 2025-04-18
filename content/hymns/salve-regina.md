@@ -1,5 +1,6 @@
 ---
 title: Salve Regina
+subtitle: Marian Antiphon (Traditional)
 tags: [mary]
 ---
 
