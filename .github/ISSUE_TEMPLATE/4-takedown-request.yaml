@@ -1,0 +1,23 @@
+name: Remove a hymn
+description: Request for a hymn to be removed from hymnsrepo.com
+title: 'Takedown request: <hymn title>'
+body:
+  - type: input
+    id: hymn-link
+    attributes:
+      label: Hymn link
+      description: hymnsrepo.com link to the existing hymn
+      placeholder: https://hymnsrepo.com/hymns/soul-of-my-saviour/
+    validations:
+      required: true
+  - type: textarea
+    id: removal-reason
+    attributes:
+      label: Removal reason
+      description: Explain why the hymn must be removed.
+  - type: input
+    id: other-info
+    attributes:
+      label: Other information
+      description: Include any other information here.
+
