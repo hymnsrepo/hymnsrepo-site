@@ -1,0 +1,27 @@
+name: Report a typo
+description: Report a typo or mistake with an existing hymn.
+title: 'Typo: <hymn title>'
+body:
+  - type: input
+    id: hymn-link
+    attributes:
+      label: Hymn link
+      description: hymnsrepo.com link to the existing hymn
+      placeholder: https://hymnsrepo.com/hymns/soul-of-my-saviour/
+    validations:
+      required: true
+  - type: textarea
+    id: typoed-lyrics
+    attributes:
+      label: Current lyrics
+      placeholder: Soul of my Savior sanctify my beast,
+      render: md
+    validations:
+      required: true
+  - type: textarea
+    id: fixed-lyrics
+    attributes:
+      label: Fixed lyrics
+      placeholder: Soul of my Savior sanctify my breast,
+      render: md
+
