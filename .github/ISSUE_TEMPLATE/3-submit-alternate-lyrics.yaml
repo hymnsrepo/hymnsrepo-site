@@ -32,7 +32,6 @@ body:
         in death's dread moments make me only thine;
         call me and bid me come to thee on high
         where I may praise thee with thy saints for ay. 
-      render: md
     validations:
       required: true
   - type: textarea

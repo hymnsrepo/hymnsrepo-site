@@ -15,7 +15,7 @@ body:
     attributes:
       label: Removal reason
       description: Explain why the hymn must be removed.
-  - type: input
+  - type: textarea
     id: other-info
     attributes:
       label: Other information
