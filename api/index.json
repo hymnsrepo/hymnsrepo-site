@@ -824,6 +824,11 @@
     "subtitle": "Aniceto Nazareth",
     "basename": "lord-you-are-my-everything"
   },
+  "lord-you-have-come-to-the-seashore": {
+    "title": "Lord, you have come to the seashore",
+    "subtitle": "Cesareo Gabarain",
+    "basename": "lord-you-have-come-to-the-seashore"
+  },
   "lord-you-have-touched-my-heart": {
     "title": "Lord, You have touched my heart",
     "subtitle": "Aniceto Nazareth",
@@ -1335,6 +1340,11 @@
       "communion"
     ],
     "basename": "whom-do-you-seek"
+  },
+  "will-you-come-and-follow-me": {
+    "title": "Will you come and follow me (The Summons)",
+    "subtitle": "John Bell & Graham",
+    "basename": "will-you-come-and-follow-me"
   },
   "yes-i-shall-arise": {
     "title": "Yes, I shall arise",
